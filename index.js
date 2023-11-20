@@ -1,15 +1,20 @@
-import puppeteer from "puppeteer";
+import puppeteer from "puppeteer-extra";
+import StealthPlugin from "puppeteer-extra-plugin-stealth";
+puppeteer.use(StealthPlugin());
 
 (async () => {
   // Launch the browser and open a new blank page
-  const browser = await puppeteer.launch({ headless: false });
+  const browser = await puppeteer.launch({ headless: "new" });
   // false, slowMo: 100 });
   const page = await browser.newPage();
 
   // Navigate the page to a URL
   await page.goto(
     //"https://www.ccma.cat/3cat/lexili-i-el-retorn-de-teresa-pamies/audio/1187849/"
-    "https://www.ccma.cat/3cat/en-guardia/audio/963141/"
+    "https://www.ccma.cat/3cat/en-guardia/audio/963141/",
+    {
+      waitUntil: "domcontentloaded",
+    }
   );
 
   // Set screen size
@@ -20,11 +25,20 @@ import puppeteer from "puppeteer";
   const cookiesSelector = "#didomi-notice-agree-button";
   const signupSelector = ".onboarding_botoTanca__bpmHW";
 
-  await page.waitForSelector(cookiesSelector);
+  /*   await Promise.all([
+    page.waitForSelector(cookiesSelector),
+    page.click(cookiesSelector),
+    page.waitForSelector(signupSelector),
+    page.click(signupSelector),
+    page.waitForSelector(buttonSelector),
+    page.click(buttonSelector),
+  ]); */
+
+  /*   await page.waitForSelector(cookiesSelector);
   await page.click(cookiesSelector);
 
   await page.waitForSelector(signupSelector);
-  await page.click(signupSelector);
+  await page.click(signupSelector); */
 
   await page.waitForSelector(buttonSelector);
   await page.click(buttonSelector);
