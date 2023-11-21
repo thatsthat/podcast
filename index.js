@@ -10,8 +10,10 @@ puppeteer.use(StealthPlugin());
 
   // Navigate the page to a URL
   await page.goto(
-    //"https://www.ccma.cat/3cat/lexili-i-el-retorn-de-teresa-pamies/audio/1187849/"
-    "https://www.ccma.cat/3cat/en-guardia/audio/963141/",
+    //"https://www.ccma.cat/3cat/lexili-i-el-retorn-de-teresa-pamies/audio/1187849/",
+    //"https://www.ccma.cat/3cat/en-guardia/audio/963141/",
+    "https://www.ccma.cat/3cat/32-francesc-macia/audio/102442/",
+
     {
       waitUntil: "domcontentloaded",
     }
@@ -56,4 +58,9 @@ puppeteer.use(StealthPlugin());
   console.log(audioSource);
 
   await browser.close();
+
+  const response = await fetch(audioSource, { method: "HEAD" });
+  //const content = await response.json();
+  console.log(response.headers.get("content-length"));
+  console.log(response.headers.get("last-modified"));
 })();
