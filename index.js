@@ -36,6 +36,8 @@ const fetchData = async (url) => {
   await browser.close();
   const response = await fetch(audioSource, { method: "HEAD" });
 
+  console.log(audioSource);
+
   const obj = {
     title: fullTitle,
     fileURL: audioSource,
@@ -47,27 +49,24 @@ const fetchData = async (url) => {
 };
 
 (async () => {
-  const audioURLs = [
+  const data = fs.readFileSync("./urls.txt", { encoding: "utf8" });
+
+  const audioURLs = data.split("\n");
+
+  /* const audioURLs = [
     "https://www.ccma.cat/3cat/1-la-batalla-dalmenar/audio/99527/",
     "https://www.ccma.cat/3cat/2-pirates-i-corsaris/audio/99541/",
     "https://www.ccma.cat/3cat/3-la-primera-guerra-carlina/audio/99528/",
-  ];
+  ]; */
 
-  const allFetches = [];
-
-  /*   audioURLs.forEach(async (url) => {
-    allFetches.push(fetchData(url));
-  }); */
+  const allResults = [];
 
   for (let i = 0; i < audioURLs.length; i++) {
-    allFetches.push(await fetchData(audioURLs[i]));
+    console.log(`Episodi ${i}`);
+    allResults.push(await fetchData(audioURLs[i]));
   }
 
-  //const allResults = await Promise.all(allFetches);
-
-  console.log(allFetches);
-
-  /* // Generate RSS feed xml file
+  // Generate RSS feed xml file
 
   const feed = new RSS({
     title: "En Guàrdia!",
@@ -95,5 +94,5 @@ const fetchData = async (url) => {
   // Save it into a text file
   var writeStream = fs.createWriteStream("enguardia.xml");
   writeStream.write(xml);
-  writeStream.end(); */
+  writeStream.end();
 })();
