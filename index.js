@@ -66,7 +66,7 @@ const scrapeData = async (urls) => {
     const audioSource = await audioNode?.evaluate((el) =>
       el.getAttribute("src")
     );
-    
+
     const response = await fetch(audioSource, { method: "HEAD" });
 
     console.log(audioSource);
