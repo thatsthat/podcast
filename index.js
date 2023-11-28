@@ -5,47 +5,89 @@ import StealthPlugin from "puppeteer-extra-plugin-stealth";
 
 puppeteer.use(StealthPlugin());
 
-const fetchData = async (url) => {
+const scrapeData = async (urls) => {
+  const allResults = [];
+
   // Launch the browser and open a new blank page
   const browser = await puppeteer.launch({ headless: "new" });
-  // false, slowMo: 100 });
+  // const browser = await puppeteer.launch({ headless: false, slowMo: 100 });
   const page = await browser.newPage();
-
-  // Navigate the page to a URL
-  await page.goto(url, { waitUntil: "domcontentloaded" });
 
   // Set screen size
   await page.setViewport({ width: 1080, height: 1024 });
 
-  // Click play button
-  const buttonSelector = ".jw-icon-playback";
+  const scrapeURL = async (url) => {
+    // Navigate the page to a URL
+    await page.goto(url, { waitUntil: "domcontentloaded" });
 
-  await page.waitForSelector(buttonSelector);
-  await page.click(buttonSelector);
+    // Click play button
+    const buttonSelector = ".jw-icon-playback";
 
-  // Read title
-  const titleSelector = ".itemaudio_titol__leaYf";
-  const titleNode = await page.waitForSelector(titleSelector);
-  const fullTitle = await titleNode?.evaluate((el) => el.textContent);
+    await page.waitForSelector(buttonSelector);
 
-  // Read audio source
-  const audioSelector = "video";
-  const audioNode = await page.waitForSelector(audioSelector);
-  const audioSource = await audioNode?.evaluate((el) => el.getAttribute("src"));
+    while (true) {
+      try {
+        await page.waitForSelector(buttonSelector);
+        break;
+      } catch (error) {
+        console.log(error);
+      }
+    }
 
-  await browser.close();
-  const response = await fetch(audioSource, { method: "HEAD" });
+    await page.click(buttonSelector);
 
-  console.log(audioSource);
+    // Read title
+    const titleSelector = ".itemaudio_titol__leaYf";
 
-  const obj = {
-    title: fullTitle,
-    fileURL: audioSource,
-    fileSize: response.headers.get("content-length"),
-    fileDate: response.headers.get("last-modified"),
+    let titleNode = [];
+    while (true) {
+      try {
+        titleNode = await page.waitForSelector(titleSelector);
+        break;
+      } catch (error) {
+        console.log(error);
+      }
+    }
+
+    const fullTitle = await titleNode?.evaluate((el) => el.textContent);
+    // Read audio source
+    const audioSelector = "video";
+
+    let audioNode = [];
+    while (true) {
+      try {
+        audioNode = await page.waitForSelector(audioSelector);
+        break;
+      } catch (error) {
+        console.log(error);
+      }
+    }
+
+    const audioSource = await audioNode?.evaluate((el) =>
+      el.getAttribute("src")
+    );
+    
+    const response = await fetch(audioSource, { method: "HEAD" });
+
+    console.log(audioSource);
+
+    const obj = {
+      title: fullTitle,
+      fileURL: audioSource,
+      fileSize: response.headers.get("content-length"),
+      fileDate: response.headers.get("last-modified"),
+    };
+    return obj;
   };
 
-  return obj;
+  for (let i = 0; i < urls.length; i++) {
+    console.log(`Episodi ${i}`);
+    const result = await scrapeURL(urls[i]);
+    allResults.push(result);
+  }
+
+  await browser.close();
+  return allResults;
 };
 
 (async () => {
@@ -53,18 +95,7 @@ const fetchData = async (url) => {
 
   const audioURLs = data.split("\n");
 
-  /* const audioURLs = [
-    "https://www.ccma.cat/3cat/1-la-batalla-dalmenar/audio/99527/",
-    "https://www.ccma.cat/3cat/2-pirates-i-corsaris/audio/99541/",
-    "https://www.ccma.cat/3cat/3-la-primera-guerra-carlina/audio/99528/",
-  ]; */
-
-  const allResults = [];
-
-  for (let i = 0; i < audioURLs.length; i++) {
-    console.log(`Episodi ${i}`);
-    allResults.push(await fetchData(audioURLs[i]));
-  }
+  const results = await scrapeData(audioURLs);
 
   // Generate RSS feed xml file
 
@@ -77,7 +108,7 @@ const fetchData = async (url) => {
   });
 
   // Add each audio file to the RSS feed
-  allResults.forEach((ep) => {
+  results.forEach((ep) => {
     feed.item({
       title: ep.title,
       enclosure: {
