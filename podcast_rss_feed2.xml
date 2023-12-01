@@ -29,19 +29,17 @@
     <link>https://rodydavis.github.io/podcast-player/feed.xml</link>
     <itunes:image href="https://rodydavis.github.io/podcast-player/img/icon.jpg" />
     <item>
-      <title><![CDATA[L'eclosió dels atletes africans]]></title>
-      <guid isPermaLink="false">L'eclosió dels atletes africans</guid>
-      <enclosure url="https://audios.ccma.cat/multimedia/mp3/2/8/1699356025482.mp3" length="49712901" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title><![CDATA[L'exili i el retorn de Teresa Pàmies]]></title>
-      <guid isPermaLink="false">L'exili i el retorn de Teresa Pàmies</guid>
-      <enclosure url="https://audios.ccma.cat/multimedia/mp3/2/6/1699356027462.mp3" length="51684832" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title><![CDATA[L'inici del comerç d'ultramar al Penedès]]></title>
-      <guid isPermaLink="false">L'inici del comerç d'ultramar al Penedès</guid>
-      <enclosure url="https://audios.ccma.cat/multimedia/mp3/1/6/1698752754361.mp3" length="50045596" type="audio/mpeg"/>
+      <author>Rody Davis, Norbert Kozsir</author>
+      <itunes:author>Rody Davis, Norbert Kozsir</itunes:author>
+      <title>Flutter Desktop/Web and VR</title>
+      <pubDate>Mon, 13 Apr 2020 13:00:00 GMT</pubDate>
+      <enclosure url="https://rodydavis.github.io/podcast-player/audio/01-create-eng.mp3" type="audio/mpeg" length="34216300" />
+      <itunes:duration>54:08</itunes:duration>
+      <guid isPermaLink="false">cepod01</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <description>
+          Norbert Kozsir - @norbertkozsir
+      </description>
     </item>
   </channel>
 </rss>
