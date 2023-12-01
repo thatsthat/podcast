@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="ISO-8859-1"?> <?xml-stylesheet type="text/xsl" href="https://dinamics.ccma.cat/public/podcast/catradio/xsl/master_tmpl.xsl" version="1.0"?> <rss xmlns:encoder="java.net.URLEncoder" xmlns:java="java" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:ccma="http://www.w3.org/TR/html4/" version="2.0">
 <channel>
-<title>En gu�rdia!</title>
+<title>IepIepIep</title>
 <link>https://www.ccma.cat/catradio/alacarta/en-guardia/</link>
 <description>Enric Calpena sempre et fa estar "En gu�rdia!". Trovadors medievals, les figures del crac del 29, passant per Cle�patra o Ovidi Montllor. Tots tenen cabuda al programa de divulgaci� hist�rica dels episodis claus de la hist�ria. Un programa guardonat amb el Premi R�dio Associaci� i el Premi �mnium Cultural. Diumenge, de 15 h a 16 h.</description>
 <ttl>61</ttl>
@@ -15,7 +15,7 @@
 </itunes:owner>
 <itunes:author>Catalunya R�dio</itunes:author>
 <image>
-<title>En gu�rdia!</title>
+<title>IepIepIep</title>
 <url>https://statics.ccma.cat/multimedia/jpg/5/0/1693573944005.jpg</url>
 <link>https://www.ccma.cat/catradio/alacarta/en-guardia/</link>
 </image>
