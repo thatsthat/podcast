@@ -9,11 +9,11 @@ const scrapeData = async (urls) => {
   const allResults = [];
 
   // Launch the browser and open a new blank page
-  //const browser = await puppeteer.launch({ headless: "new" });
-  const browser = await puppeteer.launch({
+  const browser = await puppeteer.launch({ headless: "new" });
+  /*   const browser = await puppeteer.launch({
     executablePath: "/usr/lib/chromium/chromium",
     headless: "new",
-  });
+  }); */
   // const browser = await puppeteer.launch({ headless: false, slowMo: 100 });
   const page = await browser.newPage();
 
@@ -22,7 +22,6 @@ const scrapeData = async (urls) => {
 
   const scrapeURL = async (url) => {
     // Navigate the page to a URL
-    console.log("iep");
     console.log(url);
     await page.goto(url, { waitUntil: "domcontentloaded" });
 
@@ -91,8 +90,6 @@ const scrapeData = async (urls) => {
 
     const response = await fetch(audioSource, { method: "HEAD" });
 
-    console.log(description);
-
     const obj = {
       title: fullTitle,
       description: description,
@@ -138,8 +135,8 @@ const scrapeData = async (urls) => {
         url: ep.fileURL,
         size: ep.fileSize,
         type: "audio/mpeg",
-        date: ep.fileDate,
       },
+      date: ep.fileDate,
     });
   });
 
