@@ -1,0 +1,646 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:georss="http://www.georss.org/georss" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" version="2.0">
+
+<channel>
+	<title>Podcast – Cory Doctorow's craphound.com</title>
+	<atom:link href="https://craphound.com/category/podcast/feed/" rel="self" type="application/rss+xml"/>
+	<link>https://craphound.com</link>
+	<description>Cory Doctorow's Literary Works</description>
+	<lastBuildDate>Sun, 03 Dec 2023 17:59:35 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+<site xmlns="com-wordpress:feed-additions:1">47914847</site>	<itunes:explicit>no</itunes:explicit><copyright>Creative Commons by-nc-sa http://creativecommons.org/licenses/by-nc-sa/2.5/</copyright><itunes:image href="http://craphound.com/images/Craphound300.png"/><itunes:keywords>sciencefiction,stories,audiobook,sf,corydoctorow,doctorow</itunes:keywords><itunes:summary>Articles, speeches, stories and novels by an award-winning science fiction writer, read aloud in small regular chunks</itunes:summary><itunes:subtitle>Articles, speeches, stories and novels by an award-winning science fiction writer, read aloud in small regular chunks</itunes:subtitle><itunes:category text="Arts"><itunes:category text="Literature"/></itunes:category><itunes:author>Cory Doctorow</itunes:author><itunes:owner><itunes:email>doctorow@craphound.com</itunes:email><itunes:name>Cory Doctorow</itunes:name></itunes:owner><item>
+		<title>Don’t Be Evil</title>
+		<link>https://craphound.com/articles/2023/12/03/dont-be-evil/</link>
+					<comments>https://craphound.com/articles/2023/12/03/dont-be-evil/#respond</comments>
+		
+		
+		<pubDate>Sun, 03 Dec 2023 17:59:35 +0000</pubDate>
+				<category><![CDATA[Articles]]></category>
+		<category><![CDATA[Podcast]]></category>
+		<guid isPermaLink="false">https://craphound.com/?p=11534</guid>
+
+					<description><![CDATA[This week on my podcast, I read my Locus Magazine column &#8220;Don&#8217;t Be Evil,&#8221; about the microeconomics and moral injury of enshittification. It’s tempting to think of the Great Enshittening – in which all the inter­net services we enjoyed and came to rely upon became suddenly and irreversibly terrible – as the result of moral...  <a href="https://craphound.com/articles/2023/12/03/dont-be-evil/" class="more-link" title="Read Don&#8217;t Be Evil">more <i class="fa fa-chevron-right"></i></a>]]></description>
+										<content:encoded><![CDATA[<p class="lead">
+<img decoding="async" src="https://i0.wp.com/craphound.com/images/dont-be-evil.jpg?w=580&#038;ssl=1" alt="A giant robot attacking two cowering people captured in bell jars, by shooting lasers out of his eyes. He has a Google logo on his forehead. A 'Move Fast and Break Things' poster hangs on the wall behind him, and overhead is Apple's 'Think Different' wordmark." data-recalc-dims="1"></p>
+<p>This week on my podcast, I read my <em>Locus Magazine</em> column &#8220;<a href="https://locusmag.com/2023/11/commentary-by-cory-doctorow-dont-be-evil/">Don&#8217;t Be Evil</a>,&#8221; about the microeconomics and moral injury of enshittification.</p>
+<blockquote>
+<p>It’s tempting to think of the Great Enshittening – in which all the inter­net services we enjoyed and came to rely upon became suddenly and irreversibly terrible – as the result of moral decay. That is, it’s tempting to think that the people who gave us the old, good internet did so because they were good people, and the people who enshittified it did so because they are shitty people.</p>
+<p>
+But the services that defined the old, good internet weren’t designed or maintained by individuals; they were created by institutions – mostly for-profit companies, but also non-profits, government and military agencies and academic and research facilities. Institutions are made up of individuals, of course, but the thing that makes an institution institutional is that no one person can direct it. The actions of an institution are the result of its many individual constituent parts, both acting in concert, and acting against one another.</p>
+<p>
+In other words: institutional action is the result of its individuals resolving their conflicts. Institutional action is the net results of wheedling, horse-trading, solidarity, skullduggery, power-moves, trickery, coercion, rational argument, love, spite, ferocity, and indifference among the institution’s members.
+</p></blockquote>
+<p><a href="https://ia601200.us.archive.org/19/items/Cory_Doctorow_Podcast_456/Cory_Doctorow_Podcast_456_-_Dont_Be_Evil.mp3">MP3</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://craphound.com/articles/2023/12/03/dont-be-evil/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		<enclosure length="21139456" type="audio/mpeg" url="https://ia601200.us.archive.org/19/items/Cory_Doctorow_Podcast_456/Cory_Doctorow_Podcast_456_-_Dont_Be_Evil.mp3"/>
+
+		<post-id xmlns="com-wordpress:feed-additions:1">11534</post-id>	<dc:creator>doctorow@craphound.com (Cory Doctorow)</dc:creator><itunes:explicit>no</itunes:explicit><itunes:subtitle>This week on my podcast, I read my Locus Magazine column &amp;#8220;Don&amp;#8217;t Be Evil,&amp;#8221; about the microeconomics and moral injury of enshittification. It’s tempting to think of the Great Enshittening – in which all the inter­net services we enjoyed and came to rely upon became suddenly and irreversibly terrible – as the result of moral... more</itunes:subtitle><itunes:author>Cory Doctorow</itunes:author><itunes:summary>This week on my podcast, I read my Locus Magazine column &amp;#8220;Don&amp;#8217;t Be Evil,&amp;#8221; about the microeconomics and moral injury of enshittification. It’s tempting to think of the Great Enshittening – in which all the inter­net services we enjoyed and came to rely upon became suddenly and irreversibly terrible – as the result of moral... more</itunes:summary><itunes:keywords>sciencefiction,stories,audiobook,sf,corydoctorow,doctorow</itunes:keywords></item>
+		<item>
+		<title>Moral Hazard (from Communications Breakdown)</title>
+		<link>https://craphound.com/stories/2023/11/12/moral-hazard-from-communications-breakdown/</link>
+					<comments>https://craphound.com/stories/2023/11/12/moral-hazard-from-communications-breakdown/#respond</comments>
+		
+		
+		<pubDate>Sun, 12 Nov 2023 18:03:29 +0000</pubDate>
+				<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[Stories]]></category>
+		<guid isPermaLink="false">https://craphound.com/?p=11502</guid>
+
+					<description><![CDATA[This week on my podcast, I read my short story &#8220;Moral Hazard,&#8221; published last month in MIT Press&#8217;s Communications Breakdown, a science fiction anthology edited by Jonathan Strahan. &#8220;Moral Hazard&#8221; is a story about inequality, fintech, and the problems of &#8220;solutionism.&#8221; I know exactly where I was the day I decided to give every homeless...  <a href="https://craphound.com/stories/2023/11/12/moral-hazard-from-communications-breakdown/" class="more-link" title="Read Moral Hazard (from Communications Breakdown)">more <i class="fa fa-chevron-right"></i></a>]]></description>
+										<content:encoded><![CDATA[<p class="lead">
+<img decoding="async" src="https://i0.wp.com/craphound.com/images/communications-breakdown.jpg?w=580&#038;ssl=1" alt="The cover for the MIT Press edition of 'Communications Breakdown.'" data-recalc-dims="1"></p>
+<p>This week on my podcast, I read my short story &#8220;Moral Hazard,&#8221; published last month in MIT Press&#8217;s <a href="https://mitpress.mit.edu/9780262546461/communications-breakdown/"><em>Communications Breakdown</em></a>, a science fiction anthology edited by Jonathan Strahan. &#8220;Moral Hazard&#8221; is a story about inequality, fintech, and the problems of &#8220;solutionism.&#8221;</p>
+<blockquote>
+<p>I know exactly where I was the day I decided to give every homeless person in America their own LLC. I was in the southeast corner of the sprawling homeless camp that had once been Seattle&#8217;s Discovery Park on a rare, dry February afternoon. The sun was weak but so welcome. After weeks of sheltering in our tents and squelching through the mud and getting drenched waiting for the portas, we were finally able to break out the folding chairs and enjoy each other&#8217;s company.</p>
+<p>
+Mike the Bike had coffee. He always did. Mike knew more ways to make coffee than any fancy barista. He had a master&#8217;s in chemical engineering and a bachelor&#8217;s in mechanical engineering and when he was high he spent every second of the buzz thinking of new ways to combine heat and water and solids to produce a perfect brew. </p>
+<p>
+I brought trail mix, which I mixed up myself with food-bank supplies and spices I bought from the bulk place for pennies. My secret is cardamom and a little chili powder. I learned that from my Mom.</p>
+<p>
+&#8220;Trish,&#8221; Mike the Bike said, &#8220;I wish I was a corporation.&#8221;</p>
+</blockquote>
+<p><a href="https://archive.org/download/Cory_Doctorow_Podcast_455/Cory_Doctorow_Podcast_455_-_Moral_Hazard.mp3">MP3</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://craphound.com/stories/2023/11/12/moral-hazard-from-communications-breakdown/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		<enclosure length="0" type="audio/mpeg" url="https://archive.org/download/Cory_Doctorow_Podcast_455/Cory_Doctorow_Podcast_455_-_Moral_Hazard.mp3"/>
+
+		<post-id xmlns="com-wordpress:feed-additions:1">11502</post-id>	<dc:creator>doctorow@craphound.com (Cory Doctorow)</dc:creator><itunes:explicit>no</itunes:explicit><itunes:subtitle>This week on my podcast, I read my short story &amp;#8220;Moral Hazard,&amp;#8221; published last month in MIT Press&amp;#8217;s Communications Breakdown, a science fiction anthology edited by Jonathan Strahan. &amp;#8220;Moral Hazard&amp;#8221; is a story about inequality, fintech, and the problems of &amp;#8220;solutionism.&amp;#8221; I know exactly where I was the day I decided to give every homeless... more</itunes:subtitle><itunes:author>Cory Doctorow</itunes:author><itunes:summary>This week on my podcast, I read my short story &amp;#8220;Moral Hazard,&amp;#8221; published last month in MIT Press&amp;#8217;s Communications Breakdown, a science fiction anthology edited by Jonathan Strahan. &amp;#8220;Moral Hazard&amp;#8221; is a story about inequality, fintech, and the problems of &amp;#8220;solutionism.&amp;#8221; I know exactly where I was the day I decided to give every homeless... more</itunes:summary><itunes:keywords>sciencefiction,stories,audiobook,sf,corydoctorow,doctorow</itunes:keywords></item>
+		<item>
+		<title>The Canadian Miracle, Part 2</title>
+		<link>https://craphound.com/lostcause/2023/11/05/the-canadian-miracle-part-2/</link>
+					<comments>https://craphound.com/lostcause/2023/11/05/the-canadian-miracle-part-2/#respond</comments>
+		
+		
+		<pubDate>Mon, 06 Nov 2023 02:59:33 +0000</pubDate>
+				<category><![CDATA[Articles]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[The Lost Cause]]></category>
+		<guid isPermaLink="false">https://craphound.com/?p=11493</guid>
+
+					<description><![CDATA[This week on my podcast, I read the second and final part of my short story, &#8220;The Canadian Miracle,&#8221; a story set in the world of my forthcoming pre-apocalyptic Green New Deal novel, The Lost Cause, which comes out on November 14. Look for the helpers. You will always find people who are helping. -Fred...  <a href="https://craphound.com/lostcause/2023/11/05/the-canadian-miracle-part-2/" class="more-link" title="Read The Canadian Miracle, Part 2">more <i class="fa fa-chevron-right"></i></a>]]></description>
+										<content:encoded><![CDATA[<p class="lead">
+<img decoding="async" src="https://i0.wp.com/craphound.com/images/canadian_miracle.jpg?w=580&#038;ssl=1" alt="Will Staehle's cover for 'The Canadian Miracle.'" data-recalc-dims="1"></p>
+<p>This week on my podcast, I read the second and final part of my short story, &#8220;<a href="https://www.tor.com/2023/11/01/the-canadian-miracle-cory-doctorow/">The Canadian Miracle</a>,&#8221; a story set in the world of my forthcoming pre-apocalyptic Green New Deal novel, <a href="https://us.macmillan.com/books/9781250865939/the-lost-cause"><em>The Lost Cause</em></a>, which comes out on November 14.</p>
+<blockquote>
+<p><em>Look for the helpers. You will always find people who are helping.</em> -Fred Rogers, 1986</p>
+<p><em>It&#8217;s a treat to beat your feet on the Mississippi Mud.</em> -Bing Crosby, 1927.</p>
+<p>I arrived in Oxford with the first wave of Blue Helmets, choppered in along with our gear, touching down on a hospital roof, both so that our doctors and nurses could get straight to work, and also because it was one of the few buildings left with a helipad and backup generators and its own water filtration.</p>
+<p>Humping my bag down the stairs to the waterlogged ground levels was a nightmare, even by Calgary standards. People lay on the stairs, sick and injured, and navigating them without stepping on them was like an endless nightmare of near-falls and weak moans from people too weak to curse me. I met a nurse halfway down and she took my bag from me and set it down on the landing and gave me a warm hug. &#8220;Welcome,&#8221; she said, and looked deep into my eyes. We were both young and both women but she was Black and American and I was white and Canadian. I came from a country where, for the first time in a hundred years, there was a generation that wasn&#8217;t terrified of the future. She came from a country where everybody knew they had no future.</p>
+<p>I hugged her back and she told me my lips were cracked and ordered me to drink water and watched me do it. &#8220;This lady&#8217;s with the Canadians. They came to help,&#8221; she said to her patients on the stairs. Some of them smiled and murmured at me. Others just stared at the back of their eyelids, reliving their traumas or tracing the contours of their pain.</p>
+</blockquote>
+<p><a href="https://archive.org/download/Cory_Doctorow_Podcast_454/Cory_Doctorow_Podcast_454_-_The_Canadian_Miracle_Part_2.mp3">MP3</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://craphound.com/lostcause/2023/11/05/the-canadian-miracle-part-2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		<enclosure length="0" type="audio/mpeg" url="https://archive.org/download/Cory_Doctorow_Podcast_454/Cory_Doctorow_Podcast_454_-_The_Canadian_Miracle_Part_2.mp3"/>
+
+		<post-id xmlns="com-wordpress:feed-additions:1">11493</post-id>	<dc:creator>doctorow@craphound.com (Cory Doctorow)</dc:creator><itunes:explicit>no</itunes:explicit><itunes:subtitle>This week on my podcast, I read the second and final part of my short story, &amp;#8220;The Canadian Miracle,&amp;#8221; a story set in the world of my forthcoming pre-apocalyptic Green New Deal novel, The Lost Cause, which comes out on November 14. Look for the helpers. You will always find people who are helping. -Fred... more</itunes:subtitle><itunes:author>Cory Doctorow</itunes:author><itunes:summary>This week on my podcast, I read the second and final part of my short story, &amp;#8220;The Canadian Miracle,&amp;#8221; a story set in the world of my forthcoming pre-apocalyptic Green New Deal novel, The Lost Cause, which comes out on November 14. Look for the helpers. You will always find people who are helping. -Fred... more</itunes:summary><itunes:keywords>sciencefiction,stories,audiobook,sf,corydoctorow,doctorow</itunes:keywords></item>
+		<item>
+		<title>The Canadian Miracle, Part 1</title>
+		<link>https://craphound.com/lostcause/2023/11/01/the-canadian-miracle-part-1/</link>
+		
+		
+		<pubDate>Wed, 01 Nov 2023 13:18:04 +0000</pubDate>
+				<category><![CDATA[Articles]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[The Lost Cause]]></category>
+		<guid isPermaLink="false">https://craphound.com/?p=11488</guid>
+
+					<description><![CDATA[This week on my podcast, I read part one of my short story, &#8220;The Canadian Miracle,&#8221; a story set in the world of my forthcoming pre-apocalyptic Green New Deal novel, The Lost Cause, which comes out on November 14. Look for the helpers. You will always find people who are helping. -Fred Rogers, 1986 It&#8217;s...  <a href="https://craphound.com/lostcause/2023/11/01/the-canadian-miracle-part-1/" class="more-link" title="Read The Canadian Miracle, Part 1">more <i class="fa fa-chevron-right"></i></a>]]></description>
+										<content:encoded><![CDATA[<p class="lead">
+<img decoding="async" src="https://i0.wp.com/craphound.com/images/canadian_miracle.jpg?w=580&#038;ssl=1" alt="Will Staehle's cover for 'The Canadian Miracle.'" data-recalc-dims="1"></p>
+<p>This week on my podcast, I read part one of my short story, &#8220;<a href="https://www.tor.com/2023/11/01/the-canadian-miracle-cory-doctorow/">The Canadian Miracle</a>,&#8221; a story set in the world of my forthcoming pre-apocalyptic Green New Deal novel, <a href="https://us.macmillan.com/books/9781250865939/the-lost-cause"><em>The Lost Cause</em></a>, which comes out on November 14.</p>
+<blockquote>
+<p><em>Look for the helpers. You will always find people who are helping.</em> -Fred Rogers, 1986</p>
+<p><em>It&#8217;s a treat to beat your feet on the Mississippi Mud.</em> -Bing Crosby, 1927.</p>
+<p>I arrived in Oxford with the first wave of Blue Helmets, choppered in along with our gear, touching down on a hospital roof, both so that our doctors and nurses could get straight to work, and also because it was one of the few buildings left with a helipad and backup generators and its own water filtration.</p>
+<p>Humping my bag down the stairs to the waterlogged ground levels was a nightmare, even by Calgary standards. People lay on the stairs, sick and injured, and navigating them without stepping on them was like an endless nightmare of near-falls and weak moans from people too weak to curse me. I met a nurse halfway down and she took my bag from me and set it down on the landing and gave me a warm hug. &#8220;Welcome,&#8221; she said, and looked deep into my eyes. We were both young and both women but she was Black and American and I was white and Canadian. I came from a country where, for the first time in a hundred years, there was a generation that wasn&#8217;t terrified of the future. She came from a country where everybody knew they had no future.</p>
+<p>I hugged her back and she told me my lips were cracked and ordered me to drink water and watched me do it. &#8220;This lady&#8217;s with the Canadians. They came to help,&#8221; she said to her patients on the stairs. Some of them smiled and murmured at me. Others just stared at the back of their eyelids, reliving their traumas or tracing the contours of their pain.</p>
+</blockquote>
+<p><a href="https://archive.org/download/Cory_Doctorow_Podcast_453/Cory_Doctorow_Podcast_453_-_The_Canadian_Miracle.mp3">MP3</a></p>
+]]></content:encoded>
+					
+		
+		<enclosure length="0" type="audio/mpeg" url="https://archive.org/download/Cory_Doctorow_Podcast_453/Cory_Doctorow_Podcast_453_-_The_Canadian_Miracle.mp3"/>
+
+		<post-id xmlns="com-wordpress:feed-additions:1">11488</post-id>	<dc:creator>doctorow@craphound.com (Cory Doctorow)</dc:creator><itunes:explicit>no</itunes:explicit><itunes:subtitle>This week on my podcast, I read part one of my short story, &amp;#8220;The Canadian Miracle,&amp;#8221; a story set in the world of my forthcoming pre-apocalyptic Green New Deal novel, The Lost Cause, which comes out on November 14. Look for the helpers. You will always find people who are helping. -Fred Rogers, 1986 It&amp;#8217;s... more</itunes:subtitle><itunes:author>Cory Doctorow</itunes:author><itunes:summary>This week on my podcast, I read part one of my short story, &amp;#8220;The Canadian Miracle,&amp;#8221; a story set in the world of my forthcoming pre-apocalyptic Green New Deal novel, The Lost Cause, which comes out on November 14. Look for the helpers. You will always find people who are helping. -Fred Rogers, 1986 It&amp;#8217;s... more</itunes:summary><itunes:keywords>sciencefiction,stories,audiobook,sf,corydoctorow,doctorow</itunes:keywords></item>
+		<item>
+		<title>Microincentives and Enshittification</title>
+		<link>https://craphound.com/news/2023/10/23/microincentives-and-enshittification/</link>
+		
+		
+		<pubDate>Mon, 23 Oct 2023 21:35:10 +0000</pubDate>
+				<category><![CDATA[Articles]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Podcast]]></category>
+		<guid isPermaLink="false">https://craphound.com/?p=11474</guid>
+
+					<description><![CDATA[This week on my podcast, I read a recent Medium column, &#8220;Microincentives and Enshittification&#8221; (open access link), about how Google went from being a company whose products were eerily good and whose corporate might was more often on the side of right than wrong, to being a company whose products are locked in a terminal...  <a href="https://craphound.com/news/2023/10/23/microincentives-and-enshittification/" class="more-link" title="Read Microincentives and Enshittification">more <i class="fa fa-chevron-right"></i></a>]]></description>
+										<content:encoded><![CDATA[<p class="lead">
+<img decoding="async" src="https://i0.wp.com/craphound.com/images/afbe4-1xncummaut2l-9lgbouxpgq.gif?w=580&#038;ssl=1" alt="A clip from a Jenga ad showing a dad knocking over the Jenga tower." data-recalc-dims="1"></p>
+<p>This week on my podcast, I read a recent <em>Medium</em> column, &#8220;<a href="https://doctorow.medium.com/microincentives-and-enshittification-574290ea196f">Microincentives and Enshittification</a>&#8221; (<a href="https://pluralistic.net/2023/07/28/microincentives-and-enshittification/">open access link</a>), about how Google went from being a company whose products were eerily good and whose corporate might was more often on the side of right than wrong, to being a company whose products are locked in a terminal enshittification spiral and whose lobbying might is firmly on the wrong side of history.</p>
+<blockquote><p>
+<P><br />
+Let’s start with how hard it is to not use Google. <a href="https://www.justice.gov/opa/press-release/file/1328941/download">Google spends <em>fifty billion dollars</em> per year<a/> on deals to be the default search engine for Apple, Samsung, Firefox and elsewhere. Google spends a whole-ass Twitter, every single year, just to make sure you never accidentally try another search engine.</p>
+<p>Small wonder there are so few search alternatives — and small wonder that the most promising ones are <a href="https://www.theverge.com/23802382/search-engine-google-neeva-android">suffocated for lack of market oxygen.</a></p>
+<p>
+Google Search is as big as it could possibly be. The sub-ten-percent of the search market that Google doesn’t own isn’t ever going to voluntarily come into the Google fold. Those brave iconoclasts are intimately familiar with Google Search and have had to override one or more defaults in order to get shut of it. They aren’t customers-in-waiting who just need a little more persuading.</p>
+<p>
+That means that Google Search can’t grow by adding new customers. <em>It can only grow by squeezing its existing customers harder.</em></p>
+<p>
+For Google Search to increase its profits, it must shift value from web publishers, advertisers and/or users to itself.</p>
+<p>
+The only way for Google Search to grow is to make itself worse.
+</p></blockquote>
+<p>
+<a href="https://archive.org/download/Cory_Doctorow_Podcast_452/Cory_Doctorow_Podcast_452_-_Microincentives_and_Enshittification.mp3">MP3</a></p>
+]]></content:encoded>
+					
+		
+		<enclosure length="0" type="audio/mpeg" url="https://archive.org/download/Cory_Doctorow_Podcast_452/Cory_Doctorow_Podcast_452_-_Microincentives_and_Enshittification.mp3"/>
+
+		<post-id xmlns="com-wordpress:feed-additions:1">11474</post-id>	<dc:creator>doctorow@craphound.com (Cory Doctorow)</dc:creator><itunes:explicit>no</itunes:explicit><itunes:subtitle>This week on my podcast, I read a recent Medium column, &amp;#8220;Microincentives and Enshittification&amp;#8221; (open access link), about how Google went from being a company whose products were eerily good and whose corporate might was more often on the side of right than wrong, to being a company whose products are locked in a terminal... more</itunes:subtitle><itunes:author>Cory Doctorow</itunes:author><itunes:summary>This week on my podcast, I read a recent Medium column, &amp;#8220;Microincentives and Enshittification&amp;#8221; (open access link), about how Google went from being a company whose products were eerily good and whose corporate might was more often on the side of right than wrong, to being a company whose products are locked in a terminal... more</itunes:summary><itunes:keywords>sciencefiction,stories,audiobook,sf,corydoctorow,doctorow</itunes:keywords></item>
+		<item>
+		<title>The Lost Cause (excerpt)</title>
+		<link>https://craphound.com/lostcause/2023/10/12/the-lost-cause-excerpt/</link>
+		
+		
+		<pubDate>Thu, 12 Oct 2023 14:06:11 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[The Lost Cause]]></category>
+		<guid isPermaLink="false">https://craphound.com/?p=11455</guid>
+
+					<description><![CDATA[This week on my podcast, I present the prologue and first chapter of The Lost Cause, my forthcoming solarpunk novel of Green New Deal world threatened by seagoing anarcho-capitalist billionaire wreckers and their white nationalist militia shock-troops. The book comes out on November 14 from Tor/Macmillan (US/Canada) and Head of Zeus/Bloomsbury (UK/Australia/NZ/SA, etc). As with...  <a href="https://craphound.com/lostcause/2023/10/12/the-lost-cause-excerpt/" class="more-link" title="Read The Lost Cause (excerpt)">more <i class="fa fa-chevron-right"></i></a>]]></description>
+										<content:encoded><![CDATA[<p class="lead">
+<img decoding="async" src="https://i0.wp.com/craphound.com/images/lc-hc.jpg?w=580&#038;ssl=1" alt="A mockup of the hardcover for the Tor books edition of The Lost Cause." data-recalc-dims="1"></p>
+<p>This week on my podcast, I present the prologue and first chapter of <em><a href="https://us.macmillan.com/books/9781250865939/the-lost-cause">The Lost Cause</a></em>, my forthcoming solarpunk novel of Green New Deal world threatened by seagoing anarcho-capitalist billionaire wreckers and their white nationalist militia shock-troops. The book comes out on November 14 from Tor/Macmillan (US/Canada) and Head of Zeus/Bloomsbury (UK/Australia/NZ/SA, etc). As with all my books, I&#8217;ve had to produce my own audio edition, because <a href="https://pluralistic.net/2022/07/25/can-you-hear-me-now/#acx-ripoff">Amazon refuses to carry my work in audio form</a>. You can pre-order the DRM-free audio and ebook and the hardcover <a href="https://www.kickstarter.com/projects/doctorow/the-lost-cause-a-novel-of-climate-and-hope">through my Kickstarter</a>.</p>
+<p>If you like my work and have ever wanted to say thank you, this is the best way to do so. These kickstarters don&#8217;t just pay my bills, they also provide the financial cushion that lets me produce all the free work I&#8217;ve done for decades, including this podcast. What&#8217;s more, they help me show other authors and the publishing world that when writers have their readers&#8217; backs, readers will return the favor.</p>
+<p><a href="https://archive.org/download/Cory_Doctorow_Podcast_451/Cory_Doctorow_Podcast_451_-_The_Lost_Cause.mp3">MP3</a></p>
+]]></content:encoded>
+					
+		
+		<enclosure length="0" type="audio/mpeg" url="https://archive.org/download/Cory_Doctorow_Podcast_451/Cory_Doctorow_Podcast_451_-_The_Lost_Cause.mp3"/>
+
+		<post-id xmlns="com-wordpress:feed-additions:1">11455</post-id>	<dc:creator>doctorow@craphound.com (Cory Doctorow)</dc:creator><itunes:explicit>no</itunes:explicit><itunes:subtitle>This week on my podcast, I present the prologue and first chapter of The Lost Cause, my forthcoming solarpunk novel of Green New Deal world threatened by seagoing anarcho-capitalist billionaire wreckers and their white nationalist militia shock-troops. The book comes out on November 14 from Tor/Macmillan (US/Canada) and Head of Zeus/Bloomsbury (UK/Australia/NZ/SA, etc). As with... more</itunes:subtitle><itunes:author>Cory Doctorow</itunes:author><itunes:summary>This week on my podcast, I present the prologue and first chapter of The Lost Cause, my forthcoming solarpunk novel of Green New Deal world threatened by seagoing anarcho-capitalist billionaire wreckers and their white nationalist militia shock-troops. The book comes out on November 14 from Tor/Macmillan (US/Canada) and Head of Zeus/Bloomsbury (UK/Australia/NZ/SA, etc). As with... more</itunes:summary><itunes:keywords>sciencefiction,stories,audiobook,sf,corydoctorow,doctorow</itunes:keywords></item>
+		<item>
+		<title>How To Think About Scraping</title>
+		<link>https://craphound.com/news/2023/09/24/how-to-think-about-scraping/</link>
+		
+		
+		<pubDate>Sun, 24 Sep 2023 22:47:24 +0000</pubDate>
+				<category><![CDATA[Articles]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Podcast]]></category>
+		<guid isPermaLink="false">https://craphound.com/?p=11434</guid>
+
+					<description><![CDATA[This week on my podcast, I read a recent Medium column. &#8220;How To Think About Scraping: In privacy and labor fights, copyright is a clumsy tool at best,&#8221; about the real risks (and benefits) of web-scraping, and how to formulate policy responses that preserve those benefits while targeting the harms head-on&#8221; Scraping when the scrapee...  <a href="https://craphound.com/news/2023/09/24/how-to-think-about-scraping/" class="more-link" title="Read How To Think About Scraping">more <i class="fa fa-chevron-right"></i></a>]]></description>
+										<content:encoded><![CDATA[<p class="lead">
+<img decoding="async" src="https://i0.wp.com/craphound.com/images/web-scraper.jpg?w=580&#038;ssl=1" alt="A paint scraper on a window-sill. The blade of the scraper has been overlaid with a 'code rain' effect as seen in the credits of the Wachowskis' 'Matrix' movies." data-recalc-dims="1"></p>
+<p>This week on my podcast, I read a recent <em>Medium</em> column. &#8220;<a href="https://doctorow.medium.com/how-to-think-about-scraping-2db6f69a7e3d">How To Think About Scraping: In privacy and labor fights, copyright is a clumsy tool at best</a>,&#8221; about the real risks (and benefits) of web-scraping, and how to formulate policy responses that preserve those benefits while targeting the harms head-on&#8221;</p>
+<blockquote>
+<p>Scraping when the scrapee suffers as a result of your scraping is good, actually.</p>
+<p>
+Mario Zechner is an Austrian technologist who used the APIs of large grocery chains to prove that they were colluding to rig prices. Zechner was able to create a corpus of historical price and product data to show how grocers used a raft of deceptive practices to trick people into thinking they were getting a good deal, from shrinkflation to cyclic price changes that were deceptively billed as “discounts.”</p>
+<p>
+At first, Zechner worked alone and in fear of reprisals from the giant corporations whose fraudulent practices — which affected every person in the country — he had revealed.</p>
+<p>
+But eventually, he was able to get the Austrian bureaucrat in charge of enforcing competition rules to publish a report lauding his work. Zechner open-sourced his project and attracted volunteers who started pulling in data from Germany and Slovenia.</p>
+</blockquote>
+<p>
+<a href="https://archive.org/download/Cory_Doctorow_Podcast_450/Cory_Doctorow_Podcast_450_-_How_To_Think_About_Scraping.mp3">MP3</a></p>
+<p>(<i>Image: <a href="https://commons.wikimedia.org/wiki/File:Print_Scraper_(5856642549).jpg">syvwlch</a>, <a href="https://creativecommons.org/licenses/by/2.0/deed.en">CC BY 2.0</a>, modified</i>)</p>
+]]></content:encoded>
+					
+		
+		<enclosure length="0" type="audio/mpeg" url="https://archive.org/download/Cory_Doctorow_Podcast_450/Cory_Doctorow_Podcast_450_-_How_To_Think_About_Scraping.mp3"/>
+
+		<post-id xmlns="com-wordpress:feed-additions:1">11434</post-id>	<dc:creator>doctorow@craphound.com (Cory Doctorow)</dc:creator><itunes:explicit>no</itunes:explicit><itunes:subtitle>This week on my podcast, I read a recent Medium column. &amp;#8220;How To Think About Scraping: In privacy and labor fights, copyright is a clumsy tool at best,&amp;#8221; about the real risks (and benefits) of web-scraping, and how to formulate policy responses that preserve those benefits while targeting the harms head-on&amp;#8221; Scraping when the scrapee... more</itunes:subtitle><itunes:author>Cory Doctorow</itunes:author><itunes:summary>This week on my podcast, I read a recent Medium column. &amp;#8220;How To Think About Scraping: In privacy and labor fights, copyright is a clumsy tool at best,&amp;#8221; about the real risks (and benefits) of web-scraping, and how to formulate policy responses that preserve those benefits while targeting the harms head-on&amp;#8221; Scraping when the scrapee... more</itunes:summary><itunes:keywords>sciencefiction,stories,audiobook,sf,corydoctorow,doctorow</itunes:keywords></item>
+		<item>
+		<title>Plausible Sentence Generators</title>
+		<link>https://craphound.com/news/2023/09/17/plausible-sentence-generators/</link>
+		
+		
+		<pubDate>Sun, 17 Sep 2023 21:04:18 +0000</pubDate>
+				<category><![CDATA[Articles]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Podcast]]></category>
+		<guid isPermaLink="false">https://craphound.com/?p=11424</guid>
+
+					<description><![CDATA[This week on my podcast, I read my latest Locus column. &#8220;Plausible Sentence Generators,&#8221; about my surprising, accidental encounter with a chatbot, and what it says about the future of the bullshit wars. When I came back to the tab a couple minutes later, I found that the site had fed my letter to a...  <a href="https://craphound.com/news/2023/09/17/plausible-sentence-generators/" class="more-link" title="Read Plausible Sentence Generators">more <i class="fa fa-chevron-right"></i></a>]]></description>
+										<content:encoded><![CDATA[<p class="lead">
+<img decoding="async" src="https://i0.wp.com/craphound.com/images/robotlawyer.png?w=580&#038;ssl=1" alt="A woodcut of a gentleman at a writing table, staring down at a sheaf of papers. His head has been replaced with the menacing eye of HAL9000 from Stanley Kubrick's '2001: A Space Odyssey.' The paper is covered in the green 'code waterfall' from the Wachowskis' 'The Matrix.'" data-recalc-dims="1"></p>
+<p>This week on my podcast, I read my latest <em>Locus</em> column. &#8220;<a href="https://locusmag.com/2023/09/commentary-by-cory-doctorow-plausible-sentence-generators/">Plausible Sentence Generators</a>,&#8221; about my surprising, accidental encounter with a chatbot, and what it says about the future of the bullshit wars.</p>
+<blockquote>
+<p>When I came back to the tab a couple minutes later, I found that the site had fed my letter to a large language model (probably ChatGPT) and that it had been transformed into an eye-watering, bowel-loosening, vicious lawyer letter.</p>
+<p>
+Hell, it scared me.</p>
+<p>
+Let’s get one thing straight. This was a very good lawyer-letter, but it wasn’t good writing. Legal threat letters are typically verbose, obfuscated and supercilious (legal briefs are even worse: stilted and stiff and full of tortured syntax).</p>
+<p>
+This letter read like a $600/hour paralegal working for a $1,500/hour white-shoe lawyer had drafted it. That’s what made it a good letter: it sent a signal, “The person who sent this letter is willing to spend $600 just to threaten you. They are seriously pissed, and willing to spend a lot of money to make sure you know it.” Like a cat’s tail standing on end or a dog’s hackles rising, the letter’s real point isn’t found in its text. The real point is the threat display itself.
+</p></blockquote>
+<p>
+<a href="https://archive.org/download/Cory_Doctorow_Podcast_449/Cory_Doctorow_Podcast_449_-_Plausible_Sentence_Generators.mp3">MP3</a></p>
+<p>(<i>Image: <a href="https://commons.wikimedia.org/wiki/File:HAL9000.svg">Cryteria</a>, <a href="https://creativecommons.org/licenses/by/3.0/deed.en">CC BY 3.0</a>, modified</i>)</p>
+]]></content:encoded>
+					
+		
+		<enclosure length="0" type="audio/mpeg" url="https://archive.org/download/Cory_Doctorow_Podcast_449/Cory_Doctorow_Podcast_449_-_Plausible_Sentence_Generators.mp3"/>
+
+		<post-id xmlns="com-wordpress:feed-additions:1">11424</post-id>	<dc:creator>doctorow@craphound.com (Cory Doctorow)</dc:creator><itunes:explicit>no</itunes:explicit><itunes:subtitle>This week on my podcast, I read my latest Locus column. &amp;#8220;Plausible Sentence Generators,&amp;#8221; about my surprising, accidental encounter with a chatbot, and what it says about the future of the bullshit wars. When I came back to the tab a couple minutes later, I found that the site had fed my letter to a... more</itunes:subtitle><itunes:author>Cory Doctorow</itunes:author><itunes:summary>This week on my podcast, I read my latest Locus column. &amp;#8220;Plausible Sentence Generators,&amp;#8221; about my surprising, accidental encounter with a chatbot, and what it says about the future of the bullshit wars. When I came back to the tab a couple minutes later, I found that the site had fed my letter to a... more</itunes:summary><itunes:keywords>sciencefiction,stories,audiobook,sf,corydoctorow,doctorow</itunes:keywords></item>
+		<item>
+		<title>Enshitternet: The old, good internet deserves a new, good internet</title>
+		<link>https://craphound.com/news/2023/08/21/enshitternet-the-old-good-internet-deserves-a-new-good-internet/</link>
+		
+		
+		<pubDate>Mon, 21 Aug 2023 18:39:02 +0000</pubDate>
+				<category><![CDATA[Articles]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Podcast]]></category>
+		<guid isPermaLink="false">https://craphound.com/?p=11409</guid>
+
+					<description><![CDATA[This week on my podcast, I read a recent Medium column. &#8220;Enshitternet: The old, good internet deserves a new, good internet,&#8221; clarifying that our aspiration shouldn&#8217;t be to restore the internet&#8217;s former glory, but to make a new and glorious internet. The enshitternet wasn’t inevitable. It was the result of specific policy choices: the decision...  <a href="https://craphound.com/news/2023/08/21/enshitternet-the-old-good-internet-deserves-a-new-good-internet/" class="more-link" title="Read Enshitternet: The old, good internet deserves a new, good internet">more <i class="fa fa-chevron-right"></i></a>]]></description>
+										<content:encoded><![CDATA[<p class="lead">
+<img decoding="async" src="https://i0.wp.com/craphound.com/images/1wDfNDnIpBnvqHiEWi871zA.jpg?w=580&#038;ssl=1" alt="A trio of public toilet stalls, each fitted with a pay toilet coin-op lock. The middle lock's mechanism has been replaced with the menacing, staring red eye of HAL 9000 from Stanley Kubrick's '2001: A Space Odyssey.' The space around and beneath the stalls is filled with a 'Code Rain' effect from the credit sequences of the Wachowksis' 'The Matrix.'" data-recalc-dims="1"></p>
+<p>This week on my podcast, I read a recent <em>Medium</em> column. &#8220;<a href="https://doctorow.medium.com/enshitternet-c1d4252e5c6b">Enshitternet: The old, good internet deserves a new, good internet</a>,&#8221; clarifying that our aspiration shouldn&#8217;t be to restore the internet&#8217;s former glory, but to make a new and glorious internet.</p>
+<blockquote>
+<p>The enshitternet wasn’t inevitable. It was the result of specific policy choices: the decision to encourage monopoly formation, which created the corporate power and concentration that led to even more policies, granting the monopolist unlimited freedom to abuse us, and denying us any right to defend ourselves.</p>
+<p>
+Anything that can’t go on forever eventually stops. The disenshittification of the internet isn’t a nostalgic bid to restore the old, good internet. It’s a plan to build a new, good internet, and to make the enshitternet a bad memory, a mere transitional stage between the old, good internet we had and the new, good internet we deserve.
+</p></blockquote>
+<p>
+<a href="https://archive.org/download/Cory_Doctorow_Podcast_448/Cory_Doctorow_Podcast_448_-_Enshitternet.mp3">MP3</a></p>
+<p>(<i>Image: <a href="https://commons.wikimedia.org/wiki/File:HAL9000.svg">Cryteria</a>, <a href="https://creativecommons.org/licenses/by/3.0/deed.en">CC BY 3.0</a>, modified</i>)</p>
+]]></content:encoded>
+					
+		
+		<enclosure length="0" type="audio/mpeg" url="https://archive.org/download/Cory_Doctorow_Podcast_448/Cory_Doctorow_Podcast_448_-_Enshitternet.mp3"/>
+
+		<post-id xmlns="com-wordpress:feed-additions:1">11409</post-id>	<dc:creator>doctorow@craphound.com (Cory Doctorow)</dc:creator><itunes:explicit>no</itunes:explicit><itunes:subtitle>This week on my podcast, I read a recent Medium column. &amp;#8220;Enshitternet: The old, good internet deserves a new, good internet,&amp;#8221; clarifying that our aspiration shouldn&amp;#8217;t be to restore the internet&amp;#8217;s former glory, but to make a new and glorious internet. The enshitternet wasn’t inevitable. It was the result of specific policy choices: the decision... more</itunes:subtitle><itunes:author>Cory Doctorow</itunes:author><itunes:summary>This week on my podcast, I read a recent Medium column. &amp;#8220;Enshitternet: The old, good internet deserves a new, good internet,&amp;#8221; clarifying that our aspiration shouldn&amp;#8217;t be to restore the internet&amp;#8217;s former glory, but to make a new and glorious internet. The enshitternet wasn’t inevitable. It was the result of specific policy choices: the decision... more</itunes:summary><itunes:keywords>sciencefiction,stories,audiobook,sf,corydoctorow,doctorow</itunes:keywords></item>
+		<item>
+		<title>The Internet Con: How to Seize the Means of Computation (audiobook outtake)</title>
+		<link>https://craphound.com/internetcon/2023/08/01/the-internet-con-how-to-seize-the-means-of-computation-audiobook-outtake/</link>
+					<comments>https://craphound.com/internetcon/2023/08/01/the-internet-con-how-to-seize-the-means-of-computation-audiobook-outtake/#comments</comments>
+		
+		
+		<pubDate>Tue, 01 Aug 2023 21:31:25 +0000</pubDate>
+				<category><![CDATA[Articles]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[The Internet Con]]></category>
+		<guid isPermaLink="false">https://craphound.com/?p=11400</guid>
+
+					<description><![CDATA[This week&#8217;s podcast is a special one: the introduction and chapter one of the audio edition of The Internet Con: How To Seize the Means of Computation, which Verso will publish on September 5, 2023. I made my own DRM-free audiobook for this, reading it under the direction of the incredible Gabrielle de Cuir at...  <a href="https://craphound.com/internetcon/2023/08/01/the-internet-con-how-to-seize-the-means-of-computation-audiobook-outtake/" class="more-link" title="Read The Internet Con: How to Seize the Means of Computation (audiobook outtake)">more <i class="fa fa-chevron-right"></i></a>]]></description>
+										<content:encoded><![CDATA[<p class="lead">
+<img decoding="async" src="https://i0.wp.com/craphound.com/images/31Jul2023.jpg?w=580&#038;ssl=1" alt="The cover for the audio edition of 'The Internet Con: How to Seize the Means of Computation'" data-recalc-dims="1"></p>
+<p>This week&#8217;s podcast is a special one: the introduction and chapter one of the audio edition of <a href="https://www.versobooks.com/products/3035-the-internet-con"><em>The Internet Con: How To Seize the Means of Computation</em></a>, which Verso will publish on September 5, 2023. I made my own DRM-free audiobook for this, reading it under the direction of the incredible Gabrielle de Cuir at Skyboat Media. You can pre-order DRM-free audiobooks, ebooks and hardcovers (both signed and unsigned) at <a href="https://www.kickstarter.com/projects/doctorow/the-internet-con-how-to-seize-the-means-of-computation">my Kickstarter</a>.</p>
+<p><a href="https://archive.org/download/Cory_Doctorow_Podcast_447/Cory_Doctorow_Podcast_447_-_The_Internet_Con.mp3">MP3</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://craphound.com/internetcon/2023/08/01/the-internet-con-how-to-seize-the-means-of-computation-audiobook-outtake/feed/</wfw:commentRss>
+			<slash:comments>4</slash:comments>
+		
+		<enclosure length="0" type="audio/mpeg" url="https://archive.org/download/Cory_Doctorow_Podcast_447/Cory_Doctorow_Podcast_447_-_The_Internet_Con.mp3"/>
+
+		<post-id xmlns="com-wordpress:feed-additions:1">11400</post-id>	<dc:creator>doctorow@craphound.com (Cory Doctorow)</dc:creator><itunes:explicit>no</itunes:explicit><itunes:subtitle>This week&amp;#8217;s podcast is a special one: the introduction and chapter one of the audio edition of The Internet Con: How To Seize the Means of Computation, which Verso will publish on September 5, 2023. I made my own DRM-free audiobook for this, reading it under the direction of the incredible Gabrielle de Cuir at... more</itunes:subtitle><itunes:author>Cory Doctorow</itunes:author><itunes:summary>This week&amp;#8217;s podcast is a special one: the introduction and chapter one of the audio edition of The Internet Con: How To Seize the Means of Computation, which Verso will publish on September 5, 2023. I made my own DRM-free audiobook for this, reading it under the direction of the incredible Gabrielle de Cuir at... more</itunes:summary><itunes:keywords>sciencefiction,stories,audiobook,sf,corydoctorow,doctorow</itunes:keywords></item>
+		<item>
+		<title>Let the Platforms Burn: The Opposite of Good Fires is Wildfires</title>
+		<link>https://craphound.com/news/2023/07/16/let-the-platforms-burn-the-opposite-of-good-fires-is-wildfires/</link>
+		
+		
+		<pubDate>Mon, 17 Jul 2023 05:06:06 +0000</pubDate>
+				<category><![CDATA[Articles]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[cory doctorow]]></category>
+		<category><![CDATA[enshittification]]></category>
+		<category><![CDATA[federation]]></category>
+		<category><![CDATA[harmful content]]></category>
+		<category><![CDATA[interoperability]]></category>
+		<category><![CDATA[lawful but awful]]></category>
+		<category><![CDATA[platform decay]]></category>
+		<category><![CDATA[podcast]]></category>
+		<guid isPermaLink="false">https://craphound.com/?p=11385</guid>
+
+					<description><![CDATA[This week on my podcast, I read a recent Medium column. &#8220;Let the Platforms Burn: The Opposite of Good Fires is Wildfires,&#8221; making the case that we should focus more on making it easier for people to leave platforms, rather than making the platforms less terrible places to be. Tech bosses know the only thing...  <a href="https://craphound.com/news/2023/07/16/let-the-platforms-burn-the-opposite-of-good-fires-is-wildfires/" class="more-link" title="Read Let the Platforms Burn: The Opposite of Good Fires is Wildfires">more <i class="fa fa-chevron-right"></i></a>]]></description>
+										<content:encoded><![CDATA[<p class="lead">
+<img decoding="async" src="https://i0.wp.com/craphound.com/images/1G6LuvJm2WcmeYBaiBRPAuA.png?w=580&#038;ssl=1" alt="A forest wildfire. Peeking through the darks in the stark image are hints of the green Matrix "waterfall" effect." data-recalc-dims="1"></p>
+<p>This week on my podcast, I read a recent <em>Medium</em> column. &#8220;<a href="https://doctorow.medium.com/let-the-platforms-burn-6fb3e6c0d980">Let the Platforms Burn: The Opposite of Good Fires is Wildfires</a>,&#8221; making the case that we should focus more on making it easier for people to leave platforms, rather than making the platforms less terrible places to be.</p>
+<blockquote>
+<p>Tech bosses know the only thing protecting them from sudden platform collapse syndrome are the laws that have been passed to stave off the inevitable fire.<br />
+<P><br />
+They know that platforms implode “slowly, then all at once.”<br />
+<P><br />
+They know that if we weren’t holding each other hostage, we’d all leave in a heartbeat.<br />
+<P><br />
+But anything that can’t go on forever will eventually stop. Suppressing good fire doesn’t mean “no fires,” it means wildfires. It’s time to declare fire debt bankruptcy. It’s time to admit we can’t make these combustible, tinder-heavy forests safe.<br />
+<P><br />
+It’s time to start moving people out of the danger zone.
+</p></blockquote>
+<p>
+<a href="https://archive.org/download/Cory_Doctorow_Podcast_446/Cory_Doctorow_Podcast_446_-_Let_the_Platforms_Burn.mp3">MP3</a></p>
+<p>(<i>Image: <a href="https://commons.wikimedia.org/wiki/File:Fire-Forest.jpg">Cameron Strandberg</a>, <a href="https://creativecommons.org/licenses/by/2.0/deed.en">CC BY 2.0</a>, modified</i>)</p>
+]]></content:encoded>
+					
+		
+		<enclosure length="0" type="audio/mpeg" url="https://archive.org/download/Cory_Doctorow_Podcast_446/Cory_Doctorow_Podcast_446_-_Let_the_Platforms_Burn.mp3"/>
+
+		<post-id xmlns="com-wordpress:feed-additions:1">11385</post-id>	<dc:creator>doctorow@craphound.com (Cory Doctorow)</dc:creator><itunes:explicit>no</itunes:explicit><itunes:subtitle>This week on my podcast, I read a recent Medium column. &amp;#8220;Let the Platforms Burn: The Opposite of Good Fires is Wildfires,&amp;#8221; making the case that we should focus more on making it easier for people to leave platforms, rather than making the platforms less terrible places to be. Tech bosses know the only thing... more</itunes:subtitle><itunes:author>Cory Doctorow</itunes:author><itunes:summary>This week on my podcast, I read a recent Medium column. &amp;#8220;Let the Platforms Burn: The Opposite of Good Fires is Wildfires,&amp;#8221; making the case that we should focus more on making it easier for people to leave platforms, rather than making the platforms less terrible places to be. Tech bosses know the only thing... more</itunes:summary><itunes:keywords>sciencefiction,stories,audiobook,sf,corydoctorow,doctorow</itunes:keywords></item>
+		<item>
+		<title>Ideas Lying Around</title>
+		<link>https://craphound.com/news/2023/06/11/ideas-lying-around/</link>
+		
+		
+		<pubDate>Sun, 11 Jun 2023 15:40:50 +0000</pubDate>
+				<category><![CDATA[Articles]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Podcast]]></category>
+		<guid isPermaLink="false">https://craphound.com/?p=11356</guid>
+
+					<description><![CDATA[This week on my podcast, I read a recent Medium column. &#8220;Ideas Lying Around,&#8221; about archivillain Milton Friedman&#8217;s surprisingly good theory of change, and how to apply it to progressive politics. Enter Friedman: to people reeling in crisis, Friedman insisted that the missing oil was somehow the product of unionization, pollution controls, women’s lib, and...  <a href="https://craphound.com/news/2023/06/11/ideas-lying-around/" class="more-link" title="Read Ideas Lying Around">more <i class="fa fa-chevron-right"></i></a>]]></description>
+										<content:encoded><![CDATA[<p class="lead">
+<img decoding="async" src="https://i0.wp.com/craphound.com/images/08E99q4cyhwZCYEwE.jpg?w=580&#038;ssl=1" alt="A workbench with a pegboard behind it. from the pegboard hang an array of hand-tools." data-recalc-dims="1"></p>
+<p>This week on my podcast, I read a recent <em>Medium</em> column. &#8220;<a href="https://doctorow.medium.com/ideas-lying-around-33a28901a7ae">Ideas Lying Around</a>,&#8221; about archivillain Milton Friedman&#8217;s surprisingly good theory of change, and how to apply it to progressive politics.</p>
+<blockquote>
+<p>Enter Friedman: to people reeling in crisis, Friedman insisted that the missing oil was somehow the product of unionization, pollution controls, women’s lib, and the civil rights movement. Though this was transparent nonsense, akin to blaming witches for a crop failure, the crisis was so dislocating, and Friedman’s ideas had been lying around for so long, that they moved swiftly to the center.
+</p></blockquote>
+<p>
+<a href="https://archive.org/download/Cory_Doctorow_Podcast_445/Cory_Doctorow_Podcast_445_-_Ideas_Lying_Around.mp3">MP3</a></p>
+<p>(<i>Image: <a href="https://commons.wikimedia.org/wiki/File:Garage_Workbench_-_%281%29.jpg">btwashburn</a>, <a href="https://creativecommons.org/licenses/by/2.0/deed.en">CC BY 2.0</a></i>)</p>
+]]></content:encoded>
+					
+		
+		<enclosure length="0" type="audio/mpeg" url="https://archive.org/download/Cory_Doctorow_Podcast_445/Cory_Doctorow_Podcast_445_-_Ideas_Lying_Around.mp3"/>
+
+		<post-id xmlns="com-wordpress:feed-additions:1">11356</post-id>	<dc:creator>doctorow@craphound.com (Cory Doctorow)</dc:creator><itunes:explicit>no</itunes:explicit><itunes:subtitle>This week on my podcast, I read a recent Medium column. &amp;#8220;Ideas Lying Around,&amp;#8221; about archivillain Milton Friedman&amp;#8217;s surprisingly good theory of change, and how to apply it to progressive politics. Enter Friedman: to people reeling in crisis, Friedman insisted that the missing oil was somehow the product of unionization, pollution controls, women’s lib, and... more</itunes:subtitle><itunes:author>Cory Doctorow</itunes:author><itunes:summary>This week on my podcast, I read a recent Medium column. &amp;#8220;Ideas Lying Around,&amp;#8221; about archivillain Milton Friedman&amp;#8217;s surprisingly good theory of change, and how to apply it to progressive politics. Enter Friedman: to people reeling in crisis, Friedman insisted that the missing oil was somehow the product of unionization, pollution controls, women’s lib, and... more</itunes:summary><itunes:keywords>sciencefiction,stories,audiobook,sf,corydoctorow,doctorow</itunes:keywords></item>
+		<item>
+		<title>The Swivel-Eyed Loons Have a Point</title>
+		<link>https://craphound.com/news/2023/05/14/the-swivel-eyed-loons-have-a-point/</link>
+					<comments>https://craphound.com/news/2023/05/14/the-swivel-eyed-loons-have-a-point/#comments</comments>
+		
+		
+		<pubDate>Sun, 14 May 2023 21:58:37 +0000</pubDate>
+				<category><![CDATA[Articles]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Podcast]]></category>
+		<guid isPermaLink="false">https://craphound.com/?p=11323</guid>
+
+					<description><![CDATA[This week on my podcast, I read my lastest Locus column. &#8220;The Swivel-Eyed Loons Have a Point,&#8221; about the unlikely &#8211; but undeniable &#8211; common ground I share with the most unhinged far-right conspiracists. The swivel-eyed loons at the anti-15-minute-city protests point out that such a scheme constitutes a form of pervasive location-tracking surveil­lance, and...  <a href="https://craphound.com/news/2023/05/14/the-swivel-eyed-loons-have-a-point/" class="more-link" title="Read The Swivel-Eyed Loons Have a Point">more <i class="fa fa-chevron-right"></i></a>]]></description>
+										<content:encoded><![CDATA[<p class="lead">
+<img decoding="async" src="https://i0.wp.com/craphound.com/images/1t4YjnC4G8oM_G7xGDYjubQ.png?w=580&#038;ssl=1" alt="A row of silhouetted protesters carrying signs with humorous slogans, e.g. 'I shaved my balls for THIS?' and 'This sign will accomplish NOTHING.'" data-recalc-dims="1"></p>
+<p>This week on my podcast, I read my lastest <em>Locus</em> column. &#8220;<a href="https://locusmag.com/2023/05/commentary-cory-doctorow-the-swivel-eyed-loons-have-a-point/">The Swivel-Eyed Loons Have a Point</a>,&#8221; about the unlikely &#8211; but undeniable &#8211; common ground I share with the most unhinged far-right conspiracists.</p>
+<blockquote>
+<p>The swivel-eyed loons at the anti-15-minute-city protests point out that such a scheme constitutes a form of pervasive location-tracking surveil­lance, and that this surveillance could be leveraged to attack disfavored minorities. They’re not wrong. Just look at London, where a (again, perfectly sensible) system of “congestion charging” and “low-emissions zones” has made serious progress in improving the air quality, reducing traffic, and improving journey times for public transit.</p>
+<p>
+London also uses ALPRs to enforce its traffic restrictions, and pairs this with a massive public/private network of street cameras aimed at pedestrians, backstopped by a public transit system whose Oyster payment cards are virtually impossible to use anonymously.</p>
+<p>
+The thing is, the UK government has a long history of abusing this kind of power. The Metropolitan London police ran a 40-year covert operation to infiltrate, track, and disrupt trade union organizers and activists, from students to Members of Parliament. The Met also colluded with large construction firms to maintain a secret blacklist of union organizers who were denied employment and had their lives ruined.
+</p></blockquote>
+<p>
+<a href="https://archive.org/download/Cory_Doctorow_Podcast_444/Cory_Doctorow_Podcast_444_-_The_Swivel_Eyed_Loons_Have_a_Point.mp3">MP3</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://craphound.com/news/2023/05/14/the-swivel-eyed-loons-have-a-point/feed/</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		<enclosure length="0" type="audio/mpeg" url="https://archive.org/download/Cory_Doctorow_Podcast_444/Cory_Doctorow_Podcast_444_-_The_Swivel_Eyed_Loons_Have_a_Point.mp3"/>
+
+		<post-id xmlns="com-wordpress:feed-additions:1">11323</post-id>	<dc:creator>doctorow@craphound.com (Cory Doctorow)</dc:creator><itunes:explicit>no</itunes:explicit><itunes:subtitle>This week on my podcast, I read my lastest Locus column. &amp;#8220;The Swivel-Eyed Loons Have a Point,&amp;#8221; about the unlikely &amp;#8211; but undeniable &amp;#8211; common ground I share with the most unhinged far-right conspiracists. The swivel-eyed loons at the anti-15-minute-city protests point out that such a scheme constitutes a form of pervasive location-tracking surveil­lance, and... more</itunes:subtitle><itunes:author>Cory Doctorow</itunes:author><itunes:summary>This week on my podcast, I read my lastest Locus column. &amp;#8220;The Swivel-Eyed Loons Have a Point,&amp;#8221; about the unlikely &amp;#8211; but undeniable &amp;#8211; common ground I share with the most unhinged far-right conspiracists. The swivel-eyed loons at the anti-15-minute-city protests point out that such a scheme constitutes a form of pervasive location-tracking surveil­lance, and... more</itunes:summary><itunes:keywords>sciencefiction,stories,audiobook,sf,corydoctorow,doctorow</itunes:keywords></item>
+		<item>
+		<title>How To Make a Child-Safe TikTok</title>
+		<link>https://craphound.com/news/2023/04/17/how-to-make-a-child-safe-tiktok/</link>
+		
+		
+		<pubDate>Mon, 17 Apr 2023 11:58:06 +0000</pubDate>
+				<category><![CDATA[Articles]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Podcast]]></category>
+		<guid isPermaLink="false">https://craphound.com/?p=11279</guid>
+
+					<description/>
+										<content:encoded><![CDATA[<p class="lead">
+<img decoding="async" src="https://i0.wp.com/craphound.com/images/1tLEiJTM8OLUogPl3jbG1yw.png?w=580&#038;ssl=1" alt="The exterior of a corporate office building, with the TikTok logo and wordmark over its revolving doors. From behind the revolving doors glares the hostile red eye of HAL9000 from Kubrick's '2001: A Space Odyssey." In front of the doors is a 'you must be this tall to ride' amusement-park cutout of a boy with a bow-tie, holding out his arm to indicate the minimum required height." data-recalc-dims="1"></p>
+<p>
+This week on my podcast, I read my recent Medium column. &#8220;<a href="https://doctorow.medium.com/how-to-make-a-child-safe-tiktok-be08fbf94b0d">How To Make a Child-Safe TikTok: Have you tried not spying on kids</a>,&#8221; about the bizarre unwillingness of considering a middle-ground between &#8220;unregulated TikTok&#8221; and &#8220;banning TikTok&#8221; &#8211; namely, prohibiting TikTok from spying on kids.</p>
+<p><a href="https://archive.org/download/Cory_Doctorow_Podcast_443/Cory_Doctorow_Podcast_443_-_How_To_Make_a_Child-Safe_TikTok.mp3">MP3</a></p>
+<p>(<i>Image: <a href="https://commons.wikimedia.org/wiki/File:HAL9000.svg">Cryteria</a>, <a href="https://creativecommons.org/licenses/by/3.0/deed.en">CC BY 3.0</a>; <a href="https://www.flickr.com/photos/vxla/13787212814/">Vxla</a>, <a href="https://creativecommons.org/licenses/by/2.0/">CC BY 2.0</a>; modified</i>)</p>
+]]></content:encoded>
+					
+		
+		<enclosure length="0" type="audio/mpeg" url="https://archive.org/download/Cory_Doctorow_Podcast_443/Cory_Doctorow_Podcast_443_-_How_To_Make_a_Child-Safe_TikTok.mp3"/>
+
+		<post-id xmlns="com-wordpress:feed-additions:1">11279</post-id>	<dc:creator>doctorow@craphound.com (Cory Doctorow)</dc:creator><itunes:explicit>no</itunes:explicit><itunes:author>Cory Doctorow</itunes:author><itunes:keywords>sciencefiction,stories,audiobook,sf,corydoctorow,doctorow</itunes:keywords></item>
+		<item>
+		<title>Red Team Blues: Behind the Scenes with Wil Wheaton</title>
+		<link>https://craphound.com/novels/redteamblues/2023/04/02/red-team-blues-behind-the-scenes-with-wil-wheaton/</link>
+					<comments>https://craphound.com/novels/redteamblues/2023/04/02/red-team-blues-behind-the-scenes-with-wil-wheaton/#comments</comments>
+		
+		
+		<pubDate>Sun, 02 Apr 2023 23:50:45 +0000</pubDate>
+				<category><![CDATA[Articles]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[Red Team Blues]]></category>
+		<guid isPermaLink="false">https://craphound.com/?p=11254</guid>
+
+					<description><![CDATA[This week on my podcast, I bring you some clips of Wil Wheaton&#8217;s recording sessions for the audiobook of Red Team Blues, my next novel, an anti-finance finance thriller starring the 67 year old forensic accountant Martin Hench, who specializes in high-tech scams. I&#8217;m currently kickstarting this audiobook, pre-selling audiobooks, ebooks and hardcovers. I have...  <a href="https://craphound.com/novels/redteamblues/2023/04/02/red-team-blues-behind-the-scenes-with-wil-wheaton/" class="more-link" title="Read Red Team Blues: Behind the Scenes with Wil Wheaton">more <i class="fa fa-chevron-right"></i></a>]]></description>
+										<content:encoded><![CDATA[<p class="lead">
+<img decoding="async" src="https://i0.wp.com/craphound.com/images/RTB-BTS-Wilw-Cory.jpg?w=580&#038;ssl=1" alt="A selfie taken at Skyboat Media, at director Gabrielle de Cuir's workstation, showing Cory Doctorow and Wil Wheaton; Wheaton is telepresent via a tablet." data-recalc-dims="1"></p>
+<p>This week on my podcast, I bring you some clips of Wil Wheaton&#8217;s recording sessions for the audiobook of <a href="https://us.macmillan.com/books/9781250865847/red-team-blues"><em>Red Team Blues</em></a>, my next novel, an anti-finance finance thriller starring the 67 year old forensic accountant Martin Hench, who specializes in high-tech scams.</p>
+<p>I&#8217;m currently <a href="https://www.kickstarter.com/projects/doctorow/red-team-blues-another-audiobook-that-amazon-wont-sell">kickstarting this audiobook</a>, pre-selling audiobooks, ebooks and hardcovers. I have to self-produce my own audiobooks, because Audible &#8211; the monopolist audiobook division of Amazon &#8211; refuses to carry DRM-free titles like mine.</p>
+<p><a href="https://archive.org/download/Cory_Doctorow_Podcast_442/Cory_Doctorow_Podcast_442_-_Red_Team_Blues_Behind_the_Scenes_with_Wil_Wheaton.mp3">MP3</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://craphound.com/novels/redteamblues/2023/04/02/red-team-blues-behind-the-scenes-with-wil-wheaton/feed/</wfw:commentRss>
+			<slash:comments>4</slash:comments>
+		
+		<enclosure length="0" type="audio/mpeg" url="https://archive.org/download/Cory_Doctorow_Podcast_442/Cory_Doctorow_Podcast_442_-_Red_Team_Blues_Behind_the_Scenes_with_Wil_Wheaton.mp3"/>
+
+		<post-id xmlns="com-wordpress:feed-additions:1">11254</post-id>	<dc:creator>doctorow@craphound.com (Cory Doctorow)</dc:creator><itunes:explicit>no</itunes:explicit><itunes:subtitle>This week on my podcast, I bring you some clips of Wil Wheaton&amp;#8217;s recording sessions for the audiobook of Red Team Blues, my next novel, an anti-finance finance thriller starring the 67 year old forensic accountant Martin Hench, who specializes in high-tech scams. I&amp;#8217;m currently kickstarting this audiobook, pre-selling audiobooks, ebooks and hardcovers. I have... more</itunes:subtitle><itunes:author>Cory Doctorow</itunes:author><itunes:summary>This week on my podcast, I bring you some clips of Wil Wheaton&amp;#8217;s recording sessions for the audiobook of Red Team Blues, my next novel, an anti-finance finance thriller starring the 67 year old forensic accountant Martin Hench, who specializes in high-tech scams. I&amp;#8217;m currently kickstarting this audiobook, pre-selling audiobooks, ebooks and hardcovers. I have... more</itunes:summary><itunes:keywords>sciencefiction,stories,audiobook,sf,corydoctorow,doctorow</itunes:keywords></item>
+		<item>
+		<title>Red Team Blues</title>
+		<link>https://craphound.com/novels/redteamblues/2023/03/26/red-team-blues/</link>
+		
+		
+		<pubDate>Mon, 27 Mar 2023 01:38:54 +0000</pubDate>
+				<category><![CDATA[Articles]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[Red Team Blues]]></category>
+		<guid isPermaLink="false">https://craphound.com/?p=11236</guid>
+
+					<description><![CDATA[This week on my podcast, I read a selection from my next novel, Red Team Blues, an anti-finance finance thriller about Marty Hench, a 67 year old hard-charging forensic accountant who&#8217;s seen every finance scam that Silicon Valley has come up with over the previous 40 years. Marty&#8217;s ready to retire, but an old friend...  <a href="https://craphound.com/novels/redteamblues/2023/03/26/red-team-blues/" class="more-link" title="Read Red Team Blues">more <i class="fa fa-chevron-right"></i></a>]]></description>
+										<content:encoded><![CDATA[<p class="lead">
+<img decoding="async" src="https://i0.wp.com/craphound.com/images/rtb-podcast.jpg?w=580&#038;ssl=1" alt="The cover for the Tor Books edition of Red Team Blues, which features a male figure sprinting out of a stylized keyhole." data-recalc-dims="1"></p>
+<p>This week on my podcast, I read a selection from my next novel, <a href="https://us.macmillan.com/books/9781250865847/red-team-blues">Red Team Blues</a>, an anti-finance finance thriller about Marty Hench, a 67 year old hard-charging forensic accountant who&#8217;s seen every finance scam that Silicon Valley has come up with over the previous 40 years. Marty&#8217;s ready to retire, but an old friend pulls him in for one last job, an offer he can&#8217;t refuse: recovering the stolen keys to a hidden backdoor in a cryptocurrency system that are worth more than a billion dollars. Recovering the keys turns out to be the easy part: the hard part is surviving the three-way war that is ignited in their wake, between Azerbaijani money-launderers, Mexican narcos, and crooked three-letter agencies.</p>
+<p>I&#8217;m currently kickstarting a <em>real</em> audiobook of this one, and I&#8217;m going into the studio with Wil Wheaton on Monday. If you enjoy my stories, articles and podcasts and want to know how to show your gratitude, <a href="https://www.kickstarter.com/projects/doctorow/red-team-blues-another-audiobook-that-amazon-wont-sell">please consider backing this kickstarter by pre-ordering an audiobook, ebook, and/or hardcover</a>.</p>
+<blockquote><p>
+<P><br />
+One evening, I got a wild hair and drove all night from San Diego to Menlo Park. Why Menlo Park? It had both a triple-­Michelin-­star place and a dear old friend both within spitting distance of the Walmart parking lot, where I could park the Unsalted Hash, leaving me free to drink as much as I cared to and still be able to<br />
+walk home and crawl into bed.<br />
+<P><br />
+I’d done a job that turned out better than I’d expected—­well enough that I was set for the year if I lived carefully. I didn’t want to live carefully. The age for that was long past. I wanted to live it up. There’d be more work. I wanted to celebrate.</p>
+<p>Truth be told, I also didn’t want to contemplate the possibility that, at the age of sixty-­seven, the new work might stop coming in. Silicon Valley hates old people, but that was okay, because I hated Silicon Valley. Professionally, that is.</p>
+<p>
+Getting close to Bakersfield, I pulled the Unsalted Hash into a rest stop to stretch my legs and check my phone. After a putter around the picnic tables and vending machine, I walked the perimeter of my foolish and ungainly and luxurious tour bus, checking the tires and making sure the cargo compartments were dogged and locked. I climbed back in, checked my sludge levels and decided they were low enough that I could use my own toilet, then, finally, having forced myself to wait, sat on one of the buttery leather chairs and checked my messages.</p></blockquote>
+<p>
+<a href="https://archive.org/download/Cory_Doctorow_Podcast_441_-_Red_Team_Blues/Cory_Doctorow_Podcast_441_-_Red_Team_Blues.mp3">MP3</a></p>
+]]></content:encoded>
+					
+		
+		<enclosure length="0" type="audio/mpeg" url="https://archive.org/download/Cory_Doctorow_Podcast_441_-_Red_Team_Blues/Cory_Doctorow_Podcast_441_-_Red_Team_Blues.mp3"/>
+
+		<post-id xmlns="com-wordpress:feed-additions:1">11236</post-id>	<dc:creator>doctorow@craphound.com (Cory Doctorow)</dc:creator><itunes:explicit>no</itunes:explicit><itunes:subtitle>This week on my podcast, I read a selection from my next novel, Red Team Blues, an anti-finance finance thriller about Marty Hench, a 67 year old hard-charging forensic accountant who&amp;#8217;s seen every finance scam that Silicon Valley has come up with over the previous 40 years. Marty&amp;#8217;s ready to retire, but an old friend... more</itunes:subtitle><itunes:author>Cory Doctorow</itunes:author><itunes:summary>This week on my podcast, I read a selection from my next novel, Red Team Blues, an anti-finance finance thriller about Marty Hench, a 67 year old hard-charging forensic accountant who&amp;#8217;s seen every finance scam that Silicon Valley has come up with over the previous 40 years. Marty&amp;#8217;s ready to retire, but an old friend... more</itunes:summary><itunes:keywords>sciencefiction,stories,audiobook,sf,corydoctorow,doctorow</itunes:keywords></item>
+		<item>
+		<title>Gig Work Is the Opposite of Steampunk</title>
+		<link>https://craphound.com/news/2023/03/19/gig-work-is-the-opposite-of-steampunk/</link>
+		
+		
+		<pubDate>Sun, 19 Mar 2023 20:18:32 +0000</pubDate>
+				<category><![CDATA[Articles]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Podcast]]></category>
+		<guid isPermaLink="false">https://craphound.com/?p=11224</guid>
+
+					<description><![CDATA[This week on my podcast, I read my recent Medium column, Gig Work Is the Opposite of Steampunk, making the Luddite case against bossware and other jobs where your boss is an app. The rise of gig work produced a massive surge of “craft” workers who toiled on their own premises, most notably the drivers...  <a href="https://craphound.com/news/2023/03/19/gig-work-is-the-opposite-of-steampunk/" class="more-link" title="Read Gig Work Is the Opposite of Steampunk">more <i class="fa fa-chevron-right"></i></a>]]></description>
+										<content:encoded><![CDATA[<p class="lead">
+<img decoding="async" src="https://i0.wp.com/craphound.com/images/15pGusxTZfPbTYueYClU5jw.jpg?w=580&#038;ssl=1" alt="A woodcut of a weaver's loft, where a woman works at a hand-loom. Out of the window opposite her looms the glowing, menacing red eye of HAL 9000 from Stanley Kubrick's '2001: A Space Odyssey.' On the wall behind her is the poster from Magpie Killjoy's 'Steampunk Magazine' that reads, 'Love the machine, hate the factory.'" data-recalc-dims="1"></p>
+<p>This week on my podcast, I read my recent <em>Medium</em> column, <a href="https://doctorow.medium.com/gig-work-is-the-opposite-of-steampunk-463e2730ef0d">Gig Work Is the Opposite of Steampunk</a>, making the Luddite case against bossware and other jobs where your boss is an app.</p>
+<blockquote><p>
+<P><br />
+The rise of gig work produced a massive surge of “craft” workers who toiled on their own premises, most notably the drivers for Uber, Lyft, Doordash and delivery services who worked from their own cars, assured that they were independent businesspeople, able to book the hours and jobs they wanted. If the scenery caught their eye, they could pull over to the side of the road, get out of their cars and touch grass — and no one would even know they did it, much less punish them for it.<br />
+<P><br />
+The pandemic lockdowns accelerated this process, as bossware made the leap from the low-waged, precarious Black women who were trapped by Arise’s predatory home call-centers to all kinds of white-collar workers who were told they were working from home, but who were really living at work.<br />
+<P><br />
+Bossware — technology that monitors every click, every keystroke, and the streams from your device’s cameras and microphones — is everywhere today. Even so, blue collar workers have it the worst: they are the chickenized reverse-centaurs, forced to pay for their own working equipment, then minutely monitored, down to their facial expressions, and minutely choreographed, down to their eye-movements, to make sure their bosses are getting every penny’s worth of value out of their bodies.
+</p></blockquote>
+<p><a href="https://archive.org/download/Cory_Doctorow_Podcast_440/Cory_Doctorow_Podcast_440_-_Gig_Work_Is_the_Opposite_of_Steampunk.mp3">MP3</a></p>
+]]></content:encoded>
+					
+		
+		<enclosure length="0" type="audio/mpeg" url="https://archive.org/download/Cory_Doctorow_Podcast_440/Cory_Doctorow_Podcast_440_-_Gig_Work_Is_the_Opposite_of_Steampunk.mp3"/>
+
+		<post-id xmlns="com-wordpress:feed-additions:1">11224</post-id>	<dc:creator>doctorow@craphound.com (Cory Doctorow)</dc:creator><itunes:explicit>no</itunes:explicit><itunes:subtitle>This week on my podcast, I read my recent Medium column, Gig Work Is the Opposite of Steampunk, making the Luddite case against bossware and other jobs where your boss is an app. The rise of gig work produced a massive surge of “craft” workers who toiled on their own premises, most notably the drivers... more</itunes:subtitle><itunes:author>Cory Doctorow</itunes:author><itunes:summary>This week on my podcast, I read my recent Medium column, Gig Work Is the Opposite of Steampunk, making the Luddite case against bossware and other jobs where your boss is an app. The rise of gig work produced a massive surge of “craft” workers who toiled on their own premises, most notably the drivers... more</itunes:summary><itunes:keywords>sciencefiction,stories,audiobook,sf,corydoctorow,doctorow</itunes:keywords></item>
+		<item>
+		<title>Twiddler</title>
+		<link>https://craphound.com/news/2023/02/27/twiddler/</link>
+		
+		
+		<pubDate>Mon, 27 Feb 2023 17:06:27 +0000</pubDate>
+				<category><![CDATA[Articles]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Podcast]]></category>
+		<guid isPermaLink="false">https://craphound.com/?p=11200</guid>
+
+					<description><![CDATA[This week on my podcast, I read my recent Medium column, Twiddler, which further explores my theory of enshittification, and the factors that make it endemic to digital platforms. The early internet promised more than disintermediation — it also promised endless configurability, where users and technologists could install after-market code that altered the functioning of...  <a href="https://craphound.com/news/2023/02/27/twiddler/" class="more-link" title="Read Twiddler">more <i class="fa fa-chevron-right"></i></a>]]></description>
+										<content:encoded><![CDATA[<p class="lead">
+<img decoding="async" src="https://i0.wp.com/craphound.com/images/twiddler.jpg?w=580&#038;ssl=1" alt="A mandala made from a knob and button-covered control panel." data-recalc-dims="1"></p>
+<p>This week on my podcast, I read my recent <em>Medium</em> column, <a href="https://doctorow.medium.com/twiddler-1b5c9690cce6">Twiddler</a>, which further explores my theory of enshittification, and the factors that make it endemic to digital platforms.</p>
+<blockquote><p>
+<P><br />
+The early internet promised more than disintermediation — it also promised endless configurability, where users and technologists could install after-market code that altered the functioning of the services they relied on, seizing the means of computation to tilt the balance of power to their benefit.</p>
+<p>Technology remains intrinsically configurable, of course. The only kind of computer we know how to build is the universal, Turing complete Von Neumann machine, which can run all the software we know how to write.</p>
+<p>
+That’s how we got things like ad-blockers, the largest boycott in world history. The configurability of technology is why things like free and open software are politically important: in a technologically mediated society, control over the functions of the technology you rely on is control over every part of your life — your job, your education, your love life, your political engagement.</p>
+<p>
+While it remains technically possible to reconfigure the technologies that you rely on, doing so is now a legal minefield. “IP” has come to mean “any law that lets a company control the conduct of its competitors, critics or customers,” and that’s why “IP” is always at the heart of maneuvers to block platform users’ attempts to wrestle value away from the platforms.
+</p></blockquote>
+<p>
+<a href="https://archive.org/download/Cory_Doctorow_Podcast_439/Cory_Doctorow_Podcast_439_-_Twiddler.mp3">MP3</a></p>
+<p>(<i>Image: <a href="https://commons.wikimedia.org/wiki/File:Analog_Test_Array_modular_synth_by_sduck409.jpg">Stephen Drake</a>, <a href="https://creativecommons.org/licenses/by/2.0/deed.en">CC BY 2.0</a>, modified</i>)</p>
+]]></content:encoded>
+					
+		
+		<enclosure length="0" type="audio/mpeg" url="https://archive.org/download/Cory_Doctorow_Podcast_439/Cory_Doctorow_Podcast_439_-_Twiddler.mp3"/>
+
+		<post-id xmlns="com-wordpress:feed-additions:1">11200</post-id>	<dc:creator>doctorow@craphound.com (Cory Doctorow)</dc:creator><itunes:explicit>no</itunes:explicit><itunes:subtitle>This week on my podcast, I read my recent Medium column, Twiddler, which further explores my theory of enshittification, and the factors that make it endemic to digital platforms. The early internet promised more than disintermediation — it also promised endless configurability, where users and technologists could install after-market code that altered the functioning of... more</itunes:subtitle><itunes:author>Cory Doctorow</itunes:author><itunes:summary>This week on my podcast, I read my recent Medium column, Twiddler, which further explores my theory of enshittification, and the factors that make it endemic to digital platforms. The early internet promised more than disintermediation — it also promised endless configurability, where users and technologists could install after-market code that altered the functioning of... more</itunes:summary><itunes:keywords>sciencefiction,stories,audiobook,sf,corydoctorow,doctorow</itunes:keywords></item>
+		<item>
+		<title>Tiktok’s enshittification</title>
+		<link>https://craphound.com/news/2023/02/20/tiktoks-enshittification/</link>
+		
+		
+		<pubDate>Mon, 20 Feb 2023 15:12:35 +0000</pubDate>
+				<category><![CDATA[Articles]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Podcast]]></category>
+		<guid isPermaLink="false">https://craphound.com/?p=11187</guid>
+
+					<description><![CDATA[This week on my podcast, I read my Pluralistic blog post, Tiktok&#8217;s enshittification, which sets out a kind of master theory of enshittification, illustrated by Tiktok&#8217;s platform dynamics. Here is how platforms die: first, they are good to their users; then they abuse their users to make things better for their business customers; finally, they...  <a href="https://craphound.com/news/2023/02/20/tiktoks-enshittification/" class="more-link" title="Read Tiktok&#8217;s enshittification">more <i class="fa fa-chevron-right"></i></a>]]></description>
+										<content:encoded><![CDATA[<p class="lead">
+<img decoding="async" src="https://i0.wp.com/craphound.com/images/tiktok-enshittification.jpg?w=580&#038;ssl=1" alt="Hansel and Gretel in front of the witch's candy house. Hansel and Gretel have been replaced with line-drawings of influencers, taking selfies of themselves with the candy house. In front of the candy house stands a portly man in a business suit; his head is a sack of money with a dollar-sign on it. He wears a crooked witch's hat. The cottage has the Tiktok logo on it." data-recalc-dims="1"></p>
+<p>This week on my podcast, I read my Pluralistic blog post, <a href="https://pluralistic.net/2023/01/21/potemkin-ai/#hey-guys">Tiktok&#8217;s enshittification</a>, which sets out a kind of master theory of enshittification, illustrated by Tiktok&#8217;s platform dynamics.</p>
+<blockquote><p>
+<P><br />
+Here is how platforms die: first, they are good to their users; then they abuse their users to make things better for their business customers; finally, they abuse those business customers to claw back all the value for themselves. Then, they die.</p>
+<p>I call this enshittification, and it is a seemingly inevitable consequence arising from the combination of the ease of changing how a platform allocates value, combined with the nature of a &#8220;two sided market,&#8221; where a platform sits between buyers and sellers, holding each hostage to the other, raking off an ever-larger share of the value that passes between them.
+</p></blockquote>
+<p>
+<a href="https://archive.org/download/Cory_Doctorow_Podcast_438/Cory_Doctorow_Podcast_438_-_Tiktoks-enshittification.mp3">MP3</a></p>
+]]></content:encoded>
+					
+		
+		<enclosure length="0" type="audio/mpeg" url="https://archive.org/download/Cory_Doctorow_Podcast_438/Cory_Doctorow_Podcast_438_-_Tiktoks-enshittification.mp3"/>
+
+		<post-id xmlns="com-wordpress:feed-additions:1">11187</post-id>	<dc:creator>doctorow@craphound.com (Cory Doctorow)</dc:creator><itunes:explicit>no</itunes:explicit><itunes:subtitle>This week on my podcast, I read my Pluralistic blog post, Tiktok&amp;#8217;s enshittification, which sets out a kind of master theory of enshittification, illustrated by Tiktok&amp;#8217;s platform dynamics. Here is how platforms die: first, they are good to their users; then they abuse their users to make things better for their business customers; finally, they... more</itunes:subtitle><itunes:author>Cory Doctorow</itunes:author><itunes:summary>This week on my podcast, I read my Pluralistic blog post, Tiktok&amp;#8217;s enshittification, which sets out a kind of master theory of enshittification, illustrated by Tiktok&amp;#8217;s platform dynamics. Here is how platforms die: first, they are good to their users; then they abuse their users to make things better for their business customers; finally, they... more</itunes:summary><itunes:keywords>sciencefiction,stories,audiobook,sf,corydoctorow,doctorow</itunes:keywords></item>
+		<item>
+		<title>Social Quitting</title>
+		<link>https://craphound.com/news/2023/01/22/social-quitting/</link>
+		
+		
+		<pubDate>Mon, 23 Jan 2023 04:29:17 +0000</pubDate>
+				<category><![CDATA[Articles]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[audio]]></category>
+		<category><![CDATA[cory doctorow]]></category>
+		<category><![CDATA[enshittification]]></category>
+		<category><![CDATA[exodus]]></category>
+		<category><![CDATA[locus]]></category>
+		<category><![CDATA[locus magazine]]></category>
+		<category><![CDATA[network effects]]></category>
+		<category><![CDATA[platform capitalism]]></category>
+		<category><![CDATA[podcasts]]></category>
+		<category><![CDATA[post-facebook]]></category>
+		<category><![CDATA[post-twitter]]></category>
+		<category><![CDATA[social media]]></category>
+		<category><![CDATA[spoken word]]></category>
+		<category><![CDATA[surpluses]]></category>
+		<category><![CDATA[switching costs]]></category>
+		<category><![CDATA[web theory]]></category>
+		<guid isPermaLink="false">https://craphound.com/?p=11148</guid>
+
+					<description><![CDATA[This week on my podcast, I read my latest Locus column, &#8220;Social Quitting, about the enshittification lifecycle of social media platforms. But as Facebook and Twitter cemented their dominance, they steadily changed their services to capture more and more of the value that their users generated for them. At first, the companies shifted value from...  <a href="https://craphound.com/news/2023/01/22/social-quitting/" class="more-link" title="Read Social Quitting">more <i class="fa fa-chevron-right"></i></a>]]></description>
+										<content:encoded><![CDATA[<p class="lead">
+<img decoding="async" src="https://i0.wp.com/craphound.com/images/pZ05Zj2QYoxNJcVba54m9Q.png?w=580&#038;ssl=1" alt="The Phillip Medhurst Picture Torah 397. The Israelites collect manna. Exodus cap 16 v 14. Luyken and son." data-recalc-dims="1"></p>
+<p>This week on my podcast, I read my latest <em>Locus</em> column, &#8220;<a href="https://locusmag.com/2023/01/commentary-cory-doctorow-social-quitting/">Social Quitting</a>, about the enshittification lifecycle of social media platforms.</p>
+<blockquote><p>
+<P><br />
+But as Facebook and Twitter cemented their dominance, they steadily changed their services to capture more and more of the value that their users generated for them. At first, the companies shifted value from users to advertisers: engaging in more surveillance to enable finer-grained targeting and offering more intrusive forms of advertising that would fetch high prices from advertisers.</p>
+<p>This enshittification was made possible by high switch­ing costs. The vast communities who’d been brought in by network effects were so valuable that users couldn’t afford to quit, because that would mean giving up on important personal, professional, commercial, and romantic ties. And just to make sure that users didn’t sneak away, Facebook aggressively litigated against upstarts that made it possible to stay in touch with your friends without using its services. Twitter consistently whittled away at its API support, neuter­ing it in ways that made it harder and harder to leave Twitter without giving up the value it gave you.
+</p></blockquote>
+<p>
+<a href="https://archive.org/download/Cory_Doctorow_Podcast_437/Cory_Doctorow_Podcast_437_-_Social_Quitting.mp3">MP3</a></p>
+]]></content:encoded>
+					
+		
+		<enclosure length="0" type="audio/mpeg" url="https://archive.org/download/Cory_Doctorow_Podcast_437/Cory_Doctorow_Podcast_437_-_Social_Quitting.mp3"/>
+
+		<post-id xmlns="com-wordpress:feed-additions:1">11148</post-id>	<dc:creator>doctorow@craphound.com (Cory Doctorow)</dc:creator><itunes:explicit>no</itunes:explicit><itunes:subtitle>This week on my podcast, I read my latest Locus column, &amp;#8220;Social Quitting, about the enshittification lifecycle of social media platforms. But as Facebook and Twitter cemented their dominance, they steadily changed their services to capture more and more of the value that their users generated for them. At first, the companies shifted value from... more</itunes:subtitle><itunes:author>Cory Doctorow</itunes:author><itunes:summary>This week on my podcast, I read my latest Locus column, &amp;#8220;Social Quitting, about the enshittification lifecycle of social media platforms. But as Facebook and Twitter cemented their dominance, they steadily changed their services to capture more and more of the value that their users generated for them. At first, the companies shifted value from... more</itunes:summary><itunes:keywords>sciencefiction,stories,audiobook,sf,corydoctorow,doctorow</itunes:keywords></item>
+	</channel>
+</rss>
