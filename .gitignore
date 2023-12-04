@@ -1,6 +1,7 @@
 # podcast related files
 *.txt
 #*.xml
+feeds/
 
 # Logs
 logs
