@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:georss="http://www.georss.org/georss" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" version="2.0">
+  <channel>
+    <title>Podcast – Cory Doctorow's craphound.com</title>
+    <atom:link href="https://craphound.com/category/podcast/feed/" rel="self" type="application/rss+xml"/>
+    <link>https://craphound.com</link>
+    <description>Cory Doctorow's Literary Works</description>
+    <lastBuildDate>Sun, 03 Dec 2023 17:59:35 +0000</lastBuildDate>
+    <language>en-US</language>
+    <sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+    <sy:updateFrequency>
+	1	</sy:updateFrequency>
+    <site xmlns="com-wordpress:feed-additions:1">47914847</site>
+    <itunes:explicit>no</itunes:explicit>
+    <copyright>Creative Commons by-nc-sa http://creativecommons.org/licenses/by-nc-sa/2.5/</copyright>
+    <itunes:image href="http://craphound.com/images/Craphound300.png"/>
+    <itunes:keywords>sciencefiction,stories,audiobook,sf,corydoctorow,doctorow</itunes:keywords>
+    <itunes:summary>Articles, speeches, stories and novels by an award-winning science fiction writer, read aloud in small regular chunks</itunes:summary>
+    <itunes:subtitle>Articles, speeches, stories and novels by an award-winning science fiction writer, read aloud in small regular chunks</itunes:subtitle>
+    <itunes:category text="Arts">
+      <itunes:category text="Literature"/>
+    </itunes:category>
+    <itunes:author>Cory Doctorow</itunes:author>
+    <itunes:owner>
+      <itunes:email>doctorow@craphound.com</itunes:email>
+      <itunes:name>Cory Doctorow</itunes:name>
+    </itunes:owner>
+    <item>
+      <title>Don’t Be Evil</title>
+      <link>https://craphound.com/articles/2023/12/03/dont-be-evil/</link>
+      <comments>https://craphound.com/articles/2023/12/03/dont-be-evil/#respond</comments>
+      <pubDate>Sun, 03 Dec 2023 17:59:35 +0000</pubDate>
+      <category><![CDATA[Articles]]></category>
+      <category><![CDATA[Podcast]]></category>
+      <guid isPermaLink="false">https://craphound.com/?p=11534</guid>
+      <description><![CDATA[This week on my podcast, I read my Locus Magazine column &#8220;Don&#8217;t Be Evil,&#8221; about the microeconomics and moral injury of enshittification. It’s tempting to think of the Great Enshittening – in which all the inter­net services we enjoyed and came to rely upon became suddenly and irreversibly terrible – as the result of moral...  <a href="https://craphound.com/articles/2023/12/03/dont-be-evil/" class="more-link" title="Read Don&#8217;t Be Evil">more <i class="fa fa-chevron-right"></i></a>]]></description>
+      <content:encoded><![CDATA[<p class="lead">
+<img decoding="async" src="https://i0.wp.com/craphound.com/images/dont-be-evil.jpg?w=580&#038;ssl=1" alt="A giant robot attacking two cowering people captured in bell jars, by shooting lasers out of his eyes. He has a Google logo on his forehead. A 'Move Fast and Break Things' poster hangs on the wall behind him, and overhead is Apple's 'Think Different' wordmark." data-recalc-dims="1"></p>
+<p>This week on my podcast, I read my <em>Locus Magazine</em> column &#8220;<a href="https://locusmag.com/2023/11/commentary-by-cory-doctorow-dont-be-evil/">Don&#8217;t Be Evil</a>,&#8221; about the microeconomics and moral injury of enshittification.</p>
+<blockquote>
+<p>It’s tempting to think of the Great Enshittening – in which all the inter­net services we enjoyed and came to rely upon became suddenly and irreversibly terrible – as the result of moral decay. That is, it’s tempting to think that the people who gave us the old, good internet did so because they were good people, and the people who enshittified it did so because they are shitty people.</p>
+<p>
+But the services that defined the old, good internet weren’t designed or maintained by individuals; they were created by institutions – mostly for-profit companies, but also non-profits, government and military agencies and academic and research facilities. Institutions are made up of individuals, of course, but the thing that makes an institution institutional is that no one person can direct it. The actions of an institution are the result of its many individual constituent parts, both acting in concert, and acting against one another.</p>
+<p>
+In other words: institutional action is the result of its individuals resolving their conflicts. Institutional action is the net results of wheedling, horse-trading, solidarity, skullduggery, power-moves, trickery, coercion, rational argument, love, spite, ferocity, and indifference among the institution’s members.
+</p></blockquote>
+<p><a href="https://ia601200.us.archive.org/19/items/Cory_Doctorow_Podcast_456/Cory_Doctorow_Podcast_456_-_Dont_Be_Evil.mp3">MP3</a></p>
+]]></content:encoded>
+      <wfw:commentRss>https://craphound.com/articles/2023/12/03/dont-be-evil/feed/</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <enclosure length="21139456" type="audio/mpeg" url="https://ia601200.us.archive.org/19/items/Cory_Doctorow_Podcast_456/Cory_Doctorow_Podcast_456_-_Dont_Be_Evil.mp3"/>
+      <post-id xmlns="com-wordpress:feed-additions:1">11534</post-id>
+      <dc:creator>doctorow@craphound.com (Cory Doctorow)</dc:creator>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>This week on my podcast, I read my Locus Magazine column &amp;#8220;Don&amp;#8217;t Be Evil,&amp;#8221; about the microeconomics and moral injury of enshittification. It’s tempting to think of the Great Enshittening – in which all the inter­net services we enjoyed and came to rely upon became suddenly and irreversibly terrible – as the result of moral... more</itunes:subtitle>
+      <itunes:author>Cory Doctorow</itunes:author>
+      <itunes:summary>This week on my podcast, I read my Locus Magazine column &amp;#8220;Don&amp;#8217;t Be Evil,&amp;#8221; about the microeconomics and moral injury of enshittification. It’s tempting to think of the Great Enshittening – in which all the inter­net services we enjoyed and came to rely upon became suddenly and irreversibly terrible – as the result of moral... more</itunes:summary>
+      <itunes:keywords>sciencefiction,stories,audiobook,sf,corydoctorow,doctorow</itunes:keywords>
+    </item>
+      </channel>
+</rss>
