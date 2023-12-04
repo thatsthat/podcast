@@ -50,6 +50,22 @@ const scrapeData = async (urls) => {
     }
 
     const fullTitle = await titleNode?.evaluate((el) => el.textContent);
+
+    // Read description
+    const descriptionSelector = `span[class*="itemaudio_slashVertical"]`;
+
+    let descriptionNode = [];
+    while (true) {
+      try {
+        descriptionNode = await page.waitForSelector(descriptionSelector);
+        break;
+      } catch (error) {
+        console.log(error);
+      }
+    }
+
+    const description = await descriptionNode?.evaluate((el) => el.textContent);
+
     // Read audio source
     const audioSelector = "video";
 
@@ -69,10 +85,11 @@ const scrapeData = async (urls) => {
 
     const response = await fetch(audioSource, { method: "HEAD" });
 
-    console.log(audioSource);
+    console.log(description);
 
     const obj = {
       title: fullTitle,
+      description: description,
       fileURL: audioSource,
       fileSize: response.headers.get("content-length"),
       fileDate: response.headers.get("last-modified"),
@@ -115,6 +132,7 @@ const scrapeData = async (urls) => {
         url: ep.fileURL,
         size: ep.fileSize,
         type: "audio/mpeg",
+        date: ep.fileDate,
       },
     });
   });
