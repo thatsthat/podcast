@@ -13,8 +13,8 @@
 	1	</sy:updateFrequency>
     <site xmlns="com-wordpress:feed-additions:1">47914847</site>
     <itunes:explicit>no</itunes:explicit>
-    <copyright>Creative Commons by-nc-sa http://creativecommons.org/licenses/by-nc-sa/2.5/</copyright>
-    <itunes:image href="http://craphound.com/images/Craphound300.png"/>
+    <copyright>Corporació Catalana de Mitjans Audiovisuals, SA</copyright>
+    <itunes:image href="https://statics.ccma.cat/multimedia/jpg/5/0/1693573944005.jpg"/>
     <itunes:keywords>stories</itunes:keywords>
     <itunes:summary>En guardia</itunes:summary>
     <itunes:subtitle>En guardia</itunes:subtitle>
@@ -27,16 +27,11 @@
       <itunes:name>Enric Calpena</itunes:name>
     </itunes:owner>
     <item>
-      <title>L'us militar dels jocs de guerra</title>
-      <description>Capitol 1058. Des de les miniatures que feien servir grecs i romans</description>
-      <pubDate>Sun, 03 Dec 2023 15:00:00 +0100</pubDate>
-      <itunes:subtitle>
-      </itunes:subtitle>
-      <itunes:summary>Capitol 1058. Des de les miniatures que feien servir grecs i romans</itunes:summary>
-      <itunes:explicit>no</itunes:explicit>
-      <enclosure type="audio/mpeg" length="24062500" url="https://audios.ccma.cat/multimedia/mp3/0/4/1701173427540.mp3"/>
-      <guid>https://audios.ccma.cat/multimedia/mp3/0/4/1701173427540.mp3</guid>
-      <itunes:duration>00:51:20</itunes:duration>
+      <item>
+      <title><![CDATA[L'eclosió dels atletes africans]]></title>
+      <guid isPermaLink="false">L'eclosió dels atletes africans</guid>
+      <enclosure url="https://audios.ccma.cat/multimedia/mp3/2/8/1699356025482.mp3" length="49712901" type="audio/mpeg"/>
+    </item>
     </item>
   </channel>
 </rss>
