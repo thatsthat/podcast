@@ -22,6 +22,7 @@ const scrapeData = async (urls) => {
 
   const scrapeURL = async (url) => {
     // Navigate the page to a URL
+    console.log("iep");
     console.log(url);
     await page.goto(url, { waitUntil: "domcontentloaded" });
 
