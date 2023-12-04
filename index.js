@@ -11,7 +11,7 @@ const scrapeData = async (urls) => {
   // Launch the browser and open a new blank page
   //const browser = await puppeteer.launch({ headless: "new" });
   const browser = await puppeteer.launch({
-    executablePath: "/usr/lib/chromium",
+    executablePath: "/usr/lib/chromium/chromium",
     headless: "new",
   });
   // const browser = await puppeteer.launch({ headless: false, slowMo: 100 });
@@ -101,7 +101,7 @@ const scrapeData = async (urls) => {
     return obj;
   };
 
-  for (let i = 0; i < urls.length; i++) {
+  for (let i = urls.length - 1; i >= 0; i--) {
     console.log(`Episodi ${i}`);
     const result = await scrapeURL(urls[i]);
     allResults.push(result);
