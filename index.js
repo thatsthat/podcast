@@ -104,7 +104,7 @@ const scrapeData = async (urls) => {
   // Set the date for the first episode
   const epDate = new Date("2000-01-01T10:00:00.000Z");
 
-  for (let i = urls.length - 1; i >= urls.length - 10; i--) {
+  for (let i = urls.length - 1; i >= 0; i--) {
     console.log(`Episodi ${i}`);
     epDate.setDate(epDate.getDate() + 1);
     const result = await scrapeURL(urls[i]);
