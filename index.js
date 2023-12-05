@@ -1,4 +1,5 @@
 import fs from "fs";
+//import { compareAsc, format } from "date-fns";
 import RSS from "rss";
 import puppeteer from "puppeteer-extra";
 import StealthPlugin from "puppeteer-extra-plugin-stealth";
@@ -95,13 +96,17 @@ const scrapeData = async (urls) => {
       description: description,
       fileURL: audioSource,
       fileSize: response.headers.get("content-length"),
-      fileDate: response.headers.get("last-modified"),
+      fileDate: epDate.toUTCString(),
     };
     return obj;
   };
 
-  for (let i = urls.length - 1; i >= 0; i--) {
+  // Set the date for the first episode
+  const epDate = new Date("2000-01-01T10:00:00.000Z");
+
+  for (let i = urls.length - 1; i >= urls.length - 10; i--) {
     console.log(`Episodi ${i}`);
+    epDate.setDate(epDate.getDate() + 1);
     const result = await scrapeURL(urls[i]);
     allResults.push(result);
   }
